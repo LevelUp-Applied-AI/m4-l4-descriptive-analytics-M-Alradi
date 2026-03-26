@@ -1,0 +1,2001 @@
+student_id,department,semester,course_load,study_hours_weekly,gpa,attendance_pct,has_internship,commute_minutes,scholarship
+STU00001,Biology,Fall 2023,5,18.0,3.36,57.8,No,24,Department
+STU00002,Mathematics,Fall 2023,5,9.2,2.21,96.5,No,34,Athletic
+STU00003,Business,Fall 2024,4,26.4,2.69,61.3,No,32,Need-based
+STU00004,Engineering,Fall 2023,5,19.5,2.78,83.4,Yes,49,None
+STU00005,Engineering,Fall 2024,5,15.7,2.42,62.1,No,27,Athletic
+STU00006,Engineering,Fall 2023,4,11.7,2.26,71.5,No,18,Athletic
+STU00007,Business,Fall 2024,4,12.8,2.83,73.0,No,,Merit
+STU00008,Biology,Fall 2024,4,13.8,2.78,69.6,No,12,Athletic
+STU00009,Business,Fall 2023,5,14.6,2.73,73.2,Yes,17,Athletic
+STU00010,Business,Fall 2024,4,11.0,2.99,75.7,No,11,None
+STU00011,Computer Science,Fall 2023,3,21.6,2.38,82.2,No,42,Merit
+STU00012,Business,Spring 2024,4,18.5,2.96,95.5,No,14,Department
+STU00013,Business,Fall 2024,5,9.1,2.7,80.3,No,30,Merit
+STU00014,Mathematics,Fall 2023,4,8.3,2.5,91.1,No,30,Athletic
+STU00015,Biology,Fall 2024,4,9.2,2.61,61.9,No,37,None
+STU00016,Engineering,Fall 2024,3,14.0,2.33,94.0,No,5,Athletic
+STU00017,Engineering,Fall 2023,5,14.5,2.29,90.8,Yes,13,Athletic
+STU00018,Computer Science,Fall 2023,4,21.1,3.23,75.0,Yes,41,Merit
+STU00019,Computer Science,Fall 2023,3,13.2,2.45,85.9,Yes,,Need-based
+STU00020,Business,Fall 2023,5,23.2,2.8,81.7,No,40,Need-based
+STU00021,Biology,Fall 2024,4,15.6,2.1,77.3,No,18,Merit
+STU00022,Mathematics,Spring 2024,5,12.8,2.39,87.2,No,33,Merit
+STU00023,Business,Spring 2024,4,8.2,2.61,100,No,23,Athletic
+STU00024,Business,Spring 2024,6,13.3,2.24,74.8,No,40,Department
+STU00025,Business,Spring 2024,5,11.9,3.22,84.3,Yes,36,Department
+STU00026,Biology,Fall 2024,3,1.0,2.12,91.3,No,35,None
+STU00027,Mathematics,Spring 2024,3,18.0,2.44,65.2,No,34,Need-based
+STU00028,Computer Science,Spring 2024,3,23.7,3.35,78.0,No,5,Merit
+STU00029,Mathematics,Fall 2023,4,12.3,3.18,52.7,No,33,Need-based
+STU00030,Mathematics,Fall 2023,3,18.9,2.74,71.3,No,22,Department
+STU00031,Business,Fall 2024,6,15.4,2.54,61.4,No,,Department
+STU00032,Computer Science,Spring 2024,6,18.2,3.14,65.0,Yes,39,Need-based
+STU00033,Business,Spring 2024,6,9.3,2.28,73.4,No,30,Department
+STU00034,Engineering,Fall 2023,4,11.7,2.6,78.8,No,22,None
+STU00035,Biology,Spring 2024,4,12.7,2.2,88.1,No,10,Need-based
+STU00036,Biology,Spring 2024,3,9.5,2.15,73.3,No,25,Department
+STU00037,Mathematics,Fall 2024,5,17.2,2.74,68.2,No,39,Need-based
+STU00038,Biology,Fall 2024,3,17.0,2.95,79.0,Yes,16,Athletic
+STU00039,Business,Fall 2023,5,19.1,3.2,95.9,No,26,Athletic
+STU00040,Business,Fall 2023,3,7.1,2.27,74.4,No,26,Athletic
+STU00041,Mathematics,Fall 2023,5,15.8,3.25,61.6,No,,Athletic
+STU00042,Mathematics,Fall 2024,6,22.4,3.52,100,No,16,Athletic
+STU00043,Mathematics,Fall 2024,5,17.3,2.76,58.0,No,29,None
+STU00044,Computer Science,Spring 2024,3,18.3,3.1,81.3,Yes,50,None
+STU00045,Engineering,Spring 2024,3,8.0,2.48,83.8,Yes,12,Merit
+STU00046,Computer Science,Fall 2024,4,12.5,2.7,65.2,No,21,None
+STU00047,Business,Fall 2023,5,22.8,3.49,83.2,Yes,,Merit
+STU00048,Biology,Fall 2023,4,17.6,3.38,73.1,No,13,Need-based
+STU00049,Business,Fall 2023,5,13.4,2.69,100,No,29,Merit
+STU00050,Biology,Spring 2024,4,9.7,2.72,75.4,No,29,Need-based
+STU00051,Computer Science,Spring 2024,6,17.8,3.15,56.4,Yes,22,Department
+STU00052,Mathematics,Spring 2024,6,22.6,3.02,73.5,No,29,Athletic
+STU00053,Computer Science,Fall 2024,6,17.8,2.93,66.5,No,57,Need-based
+STU00054,Business,Fall 2023,6,29.0,3.21,67.4,No,,Department
+STU00055,Engineering,Spring 2024,3,18.2,3.01,79.2,Yes,36,Athletic
+STU00056,Engineering,Spring 2024,5,21.3,3.13,100,No,41,Athletic
+STU00057,Business,Fall 2024,4,19.0,3.07,100,No,32,Need-based
+STU00058,Biology,Fall 2023,6,11.8,2.67,95.0,Yes,34,Merit
+STU00059,Computer Science,Fall 2023,4,6.1,1.78,70.9,No,23,Merit
+STU00060,Mathematics,Fall 2024,6,8.1,2.44,69.6,No,48,Need-based
+STU00061,Computer Science,Fall 2023,6,7.7,2.85,68.0,Yes,30,Merit
+STU00062,Mathematics,Spring 2024,4,18.7,2.39,78.1,No,,Merit
+STU00063,Computer Science,Spring 2024,3,10.4,2.44,78.0,No,36,None
+STU00064,Computer Science,Spring 2024,4,15.1,2.42,69.9,No,33,Need-based
+STU00065,Biology,Fall 2024,4,16.5,2.67,74.9,No,24,Athletic
+STU00066,Computer Science,Fall 2023,4,10.4,3.04,68.9,No,17,None
+STU00067,Mathematics,Fall 2024,5,7.9,2.18,72.4,No,30,Athletic
+STU00068,Business,Fall 2024,5,6.1,1.92,76.2,No,23,None
+STU00069,Biology,Spring 2024,6,20.7,2.64,81.5,No,25,None
+STU00070,Business,Fall 2024,4,10.4,2.25,100.0,No,27,Athletic
+STU00071,Computer Science,Fall 2024,5,13.8,2.86,57.9,No,9,None
+STU00072,Mathematics,Fall 2023,4,4.3,1.94,79.9,No,,Athletic
+STU00073,Engineering,Fall 2024,3,7.9,2.0,70.2,No,39,None
+STU00074,Biology,Spring 2024,6,11.8,2.92,90.8,Yes,41,Merit
+STU00075,Business,Fall 2023,3,11.0,3.22,79.6,No,38,None
+STU00076,Computer Science,Spring 2024,5,9.4,2.69,72.2,No,27,Merit
+STU00077,Mathematics,Spring 2024,5,17.6,3.34,100,No,25,Athletic
+STU00078,Mathematics,Fall 2024,3,12.7,2.48,71.1,No,28,Athletic
+STU00079,Engineering,Fall 2023,6,17.5,2.98,72.6,No,33,Merit
+STU00080,Computer Science,Fall 2024,6,15.6,2.63,75.0,No,15,Athletic
+STU00081,Mathematics,Fall 2024,3,17.1,2.88,84.2,No,42,Athletic
+STU00082,Engineering,Spring 2024,3,22.0,3.74,79.1,No,,None
+STU00083,Computer Science,Fall 2023,5,7.8,2.36,66.8,No,44,None
+STU00084,Computer Science,Fall 2024,3,19.0,3.34,74.4,Yes,,Athletic
+STU00085,Biology,Fall 2023,6,4.9,2.37,88.0,No,5,None
+STU00086,Biology,Fall 2023,6,18.6,3.18,64.3,Yes,,Athletic
+STU00087,Computer Science,Fall 2024,3,4.6,2.16,88.7,No,29,Athletic
+STU00088,Biology,Fall 2024,4,24.7,3.28,61.7,No,24,Department
+STU00089,Biology,Fall 2024,5,21.3,3.17,75.2,Yes,24,None
+STU00090,Engineering,Spring 2024,3,9.0,2.19,71.2,No,32,None
+STU00091,Engineering,Fall 2024,5,11.6,2.8,90.9,No,5,Athletic
+STU00092,Biology,Fall 2024,5,17.5,2.79,69.7,No,14,Need-based
+STU00093,Engineering,Fall 2023,4,21.5,3.1,61.4,No,28,None
+STU00094,Biology,Fall 2023,3,12.2,2.8,81.1,No,23,Merit
+STU00095,Computer Science,Spring 2024,5,14.9,2.53,57.4,No,13,Merit
+STU00096,Engineering,Spring 2024,4,12.6,2.09,89.4,No,,Department
+STU00097,Computer Science,Fall 2023,3,12.3,2.88,61.0,Yes,41,None
+STU00098,Business,Fall 2024,3,12.0,2.24,74.4,Yes,15,None
+STU00099,Business,Spring 2024,3,5.3,2.24,59.8,Yes,,Need-based
+STU00100,Engineering,Fall 2024,3,14.5,2.57,89.8,No,,None
+STU00101,Mathematics,Spring 2024,6,15.9,2.93,79.3,No,33,Athletic
+STU00102,Mathematics,Fall 2024,5,18.1,3.04,83.5,Yes,19,Athletic
+STU00103,Computer Science,Fall 2024,6,13.8,2.22,50.8,No,,Athletic
+STU00104,Computer Science,Spring 2024,5,1.2,1.47,73.3,No,38,Need-based
+STU00105,Mathematics,Fall 2023,6,10.4,2.46,86.9,No,34,Athletic
+STU00106,Business,Fall 2024,3,13.7,2.98,81.9,Yes,7,None
+STU00107,Computer Science,Fall 2024,3,10.1,3.04,74.7,Yes,53,Need-based
+STU00108,Business,Fall 2024,6,11.8,2.39,71.9,Yes,17,Athletic
+STU00109,Business,Fall 2024,5,15.4,3.11,68.6,Yes,79,Department
+STU00110,Business,Fall 2023,5,16.4,2.75,76.1,Yes,36,Department
+STU00111,Mathematics,Spring 2024,4,18.2,3.08,64.2,Yes,5,Need-based
+STU00112,Business,Spring 2024,5,22.9,3.52,75.2,No,19,None
+STU00113,Engineering,Fall 2023,5,11.2,2.48,80.8,No,,Department
+STU00114,Biology,Fall 2023,3,11.8,3.27,96.8,Yes,,Merit
+STU00115,Mathematics,Fall 2024,5,16.4,3.35,86.0,No,20,None
+STU00116,Mathematics,Fall 2024,3,21.6,3.19,87.9,Yes,39,Need-based
+STU00117,Computer Science,Spring 2024,4,5.9,2.11,100,No,21,None
+STU00118,Mathematics,Fall 2023,4,19.8,3.46,74.0,No,62,Athletic
+STU00119,Computer Science,Fall 2024,4,11.8,2.38,87.5,Yes,14,None
+STU00120,Business,Fall 2023,3,15.7,2.69,71.1,No,42,Athletic
+STU00121,Mathematics,Fall 2024,6,20.1,3.27,74.1,No,30,Department
+STU00122,Mathematics,Fall 2023,4,2.4,1.82,75.2,No,21,Merit
+STU00123,Computer Science,Fall 2024,4,13.9,2.79,69.2,No,29,None
+STU00124,Computer Science,Fall 2024,3,12.5,2.52,70.6,No,44,Athletic
+STU00125,Computer Science,Fall 2023,6,33.0,3.4,60.7,No,8,Department
+STU00126,Computer Science,Fall 2024,5,23.7,3.24,87.3,No,44,None
+STU00127,Mathematics,Fall 2023,6,10.4,2.48,49.9,Yes,12,Department
+STU00128,Computer Science,Fall 2024,4,9.5,2.48,51.1,Yes,17,Merit
+STU00129,Computer Science,Fall 2024,6,19.0,3.33,79.0,No,,Athletic
+STU00130,Biology,Fall 2023,5,20.1,2.2,71.3,No,6,Department
+STU00131,Computer Science,Fall 2023,6,19.0,3.15,80.9,Yes,,Athletic
+STU00132,Mathematics,Spring 2024,5,18.1,2.59,61.6,No,31,Athletic
+STU00133,Computer Science,Fall 2023,6,17.7,3.23,70.3,No,23,Merit
+STU00134,Mathematics,Fall 2024,4,26.6,3.35,60.6,No,19,Athletic
+STU00135,Business,Spring 2024,3,25.8,3.5,90.0,No,33,Need-based
+STU00136,Business,Fall 2023,4,6.9,2.33,81.3,Yes,20,Department
+STU00137,Biology,Fall 2023,4,15.1,3.28,94.9,Yes,23,Department
+STU00138,Biology,Fall 2023,6,6.3,2.53,78.8,Yes,47,Need-based
+STU00139,Engineering,Spring 2024,3,11.1,2.15,72.1,No,5,Department
+STU00140,Biology,Spring 2024,4,22.7,3.3,75.3,No,19,Merit
+STU00141,Mathematics,Fall 2024,3,12.2,2.07,91.8,No,30,Department
+STU00142,Business,Fall 2024,6,17.8,2.91,66.8,Yes,16,Need-based
+STU00143,Business,Fall 2023,3,12.7,2.95,88.8,No,33,None
+STU00144,Biology,Fall 2024,5,15.4,2.39,65.0,No,30,Athletic
+STU00145,Engineering,Spring 2024,4,15.5,2.84,50.8,No,6,Merit
+STU00146,Business,Spring 2024,4,23.1,3.16,92.2,No,9,Need-based
+STU00147,Computer Science,Fall 2023,3,17.5,2.95,66.7,Yes,22,Need-based
+STU00148,Biology,Fall 2024,6,9.1,2.69,79.1,Yes,31,Department
+STU00149,Biology,Fall 2023,4,2.2,2.63,83.1,Yes,12,Athletic
+STU00150,Biology,Fall 2024,4,20.0,2.73,75.3,No,,Merit
+STU00151,Biology,Fall 2023,5,26.5,3.56,62.7,Yes,35,Athletic
+STU00152,Biology,Spring 2024,4,17.8,1.98,74.8,No,30,Merit
+STU00153,Mathematics,Spring 2024,5,14.3,2.81,79.8,Yes,41,Need-based
+STU00154,Mathematics,Fall 2023,3,2.8,2.31,77.4,No,29,Athletic
+STU00155,Mathematics,Spring 2024,4,15.2,2.92,91.9,No,21,None
+STU00156,Business,Spring 2024,6,7.3,2.25,60.0,Yes,19,None
+STU00157,Engineering,Spring 2024,3,15.0,3.08,76.9,Yes,16,None
+STU00158,Business,Fall 2023,3,12.2,2.52,88.2,No,15,Need-based
+STU00159,Biology,Fall 2024,5,26.2,3.75,83.7,Yes,44,Athletic
+STU00160,Mathematics,Fall 2023,5,9.8,2.25,54.7,No,15,Department
+STU00161,Biology,Fall 2023,6,16.9,2.65,75.6,No,13,Need-based
+STU00162,Computer Science,Spring 2024,5,15.1,3.44,68.3,Yes,11,Athletic
+STU00163,Engineering,Fall 2023,4,3.9,2.41,87.7,No,,Merit
+STU00164,Engineering,Spring 2024,6,6.2,2.62,91.3,No,30,Athletic
+STU00165,Business,Spring 2024,4,10.9,2.9,83.1,Yes,45,Merit
+STU00166,Computer Science,Spring 2024,6,18.9,3.3,62.9,No,30,Need-based
+STU00167,Business,Spring 2024,5,11.4,2.23,85.7,No,25,Department
+STU00168,Biology,Fall 2024,6,4.1,2.11,80.9,No,27,Need-based
+STU00169,Mathematics,Fall 2024,5,13.6,2.97,90.8,No,35,Merit
+STU00170,Biology,Fall 2023,4,2.6,2.54,83.8,No,16,Merit
+STU00171,Business,Spring 2024,4,11.6,2.36,69.9,No,5,Merit
+STU00172,Business,Fall 2023,3,13.3,2.27,76.2,No,,Department
+STU00173,Computer Science,Fall 2024,4,8.5,2.89,66.8,Yes,19,Need-based
+STU00174,Biology,Fall 2024,6,11.2,1.79,90.8,No,5,None
+STU00175,Mathematics,Fall 2024,6,23.3,3.1,48.9,No,31,Department
+STU00176,Business,Fall 2023,4,29.9,3.36,75.1,No,38,Merit
+STU00177,Mathematics,Fall 2024,4,11.6,2.77,100,No,16,None
+STU00178,Computer Science,Fall 2024,5,3.4,1.89,95.5,No,10,None
+STU00179,Business,Fall 2024,5,19.0,3.52,67.2,Yes,24,Merit
+STU00180,Mathematics,Fall 2024,4,25.4,3.08,89.6,No,18,Need-based
+STU00181,Biology,Fall 2024,3,21.5,3.47,75.5,No,27,Need-based
+STU00182,Business,Fall 2024,3,12.1,2.71,95.0,No,33,Department
+STU00183,Engineering,Fall 2024,3,19.3,2.25,84.6,No,28,Athletic
+STU00184,Business,Fall 2023,3,18.3,3.32,65.9,No,6,Athletic
+STU00185,Mathematics,Fall 2024,3,13.8,2.76,77.0,No,31,Department
+STU00186,Biology,Spring 2024,5,13.1,3.05,61.1,Yes,22,Athletic
+STU00187,Engineering,Spring 2024,3,9.1,2.25,100,No,21,Merit
+STU00188,Business,Fall 2023,3,20.0,3.29,79.2,Yes,54,Merit
+STU00189,Business,Spring 2024,4,27.0,3.32,65.4,No,15,Need-based
+STU00190,Engineering,Fall 2023,6,21.6,2.82,64.6,No,38,Department
+STU00191,Mathematics,Spring 2024,4,17.6,2.62,77.0,No,6,Merit
+STU00192,Business,Fall 2024,6,12.4,2.69,74.9,No,15,Need-based
+STU00193,Engineering,Spring 2024,3,18.4,2.7,71.0,No,,Merit
+STU00194,Engineering,Spring 2024,5,19.5,2.88,72.3,No,23,None
+STU00195,Business,Fall 2024,6,13.0,2.43,81.2,No,20,Merit
+STU00196,Biology,Fall 2023,4,18.7,3.13,75.9,No,34,Need-based
+STU00197,Mathematics,Fall 2024,3,16.7,3.4,82.7,No,9,Merit
+STU00198,Engineering,Spring 2024,5,22.4,3.15,68.8,No,10,None
+STU00199,Biology,Spring 2024,4,14.4,2.4,95.4,No,32,Need-based
+STU00200,Engineering,Fall 2024,3,11.4,2.28,72.3,No,,Merit
+STU00201,Computer Science,Spring 2024,3,9.2,2.85,69.8,No,26,None
+STU00202,Business,Fall 2024,6,13.5,2.83,83.0,No,28,Merit
+STU00203,Engineering,Spring 2024,4,11.7,3.31,71.3,Yes,31,Need-based
+STU00204,Biology,Fall 2023,4,14.0,2.56,66.1,No,45,Need-based
+STU00205,Computer Science,Spring 2024,3,5.8,2.18,70.0,No,23,None
+STU00206,Biology,Fall 2024,3,5.2,2.17,74.1,No,26,Department
+STU00207,Biology,Fall 2023,4,1.4,3.09,93.7,No,20,Merit
+STU00208,Mathematics,Spring 2024,4,12.9,3.42,80.3,No,,Merit
+STU00209,Engineering,Fall 2023,4,20.8,2.83,88.9,No,41,None
+STU00210,Business,Fall 2023,6,13.9,3.04,72.5,Yes,16,Merit
+STU00211,Engineering,Fall 2023,3,21.5,2.36,64.4,No,5,Need-based
+STU00212,Engineering,Spring 2024,4,3.3,2.44,70.4,No,18,Merit
+STU00213,Computer Science,Fall 2024,6,6.2,2.87,83.9,No,38,Need-based
+STU00214,Business,Fall 2024,4,6.0,2.13,74.9,No,31,Merit
+STU00215,Engineering,Fall 2023,3,9.8,2.46,73.7,No,29,Athletic
+STU00216,Computer Science,Spring 2024,6,20.4,3.61,91.0,No,14,Merit
+STU00217,Biology,Fall 2024,4,5.6,2.21,76.5,No,37,Athletic
+STU00218,Computer Science,Fall 2024,4,18.9,2.92,100,No,,Need-based
+STU00219,Computer Science,Fall 2024,4,13.6,2.72,68.6,Yes,14,Athletic
+STU00220,Mathematics,Fall 2024,6,4.0,1.97,69.4,No,39,Athletic
+STU00221,Mathematics,Fall 2024,4,6.1,2.44,84.6,No,40,Department
+STU00222,Business,Spring 2024,6,24.4,3.37,58.9,No,32,Need-based
+STU00223,Business,Fall 2023,4,19.8,2.4,71.1,No,10,None
+STU00224,Business,Fall 2023,6,25.9,3.5,89.8,No,,Need-based
+STU00225,Mathematics,Fall 2024,4,13.9,3.39,89.2,Yes,29,Department
+STU00226,Computer Science,Fall 2024,4,21.7,2.66,72.6,No,,Need-based
+STU00227,Biology,Fall 2023,6,15.9,3.01,57.0,Yes,28,Need-based
+STU00228,Business,Spring 2024,3,10.1,3.03,89.1,No,45,Athletic
+STU00229,Mathematics,Fall 2023,3,6.9,2.3,79.2,No,5,None
+STU00230,Biology,Fall 2023,3,18.2,2.63,91.1,No,23,Merit
+STU00231,Engineering,Fall 2023,5,17.1,3.07,69.6,No,21,Department
+STU00232,Biology,Spring 2024,3,12.6,3.12,68.1,No,37,None
+STU00233,Business,Fall 2024,4,18.2,3.04,89.6,Yes,17,Merit
+STU00234,Biology,Fall 2023,5,16.2,2.83,81.0,No,22,None
+STU00235,Biology,Fall 2023,3,10.8,2.76,72.9,No,16,Merit
+STU00236,Biology,Fall 2023,5,2.6,1.91,51.6,No,17,Need-based
+STU00237,Mathematics,Spring 2024,3,17.7,2.67,73.7,Yes,16,None
+STU00238,Biology,Spring 2024,3,12.2,2.98,96.2,No,28,None
+STU00239,Engineering,Spring 2024,4,17.7,3.3,87.3,No,29,None
+STU00240,Mathematics,Spring 2024,3,19.2,3.18,72.5,No,9,None
+STU00241,Business,Fall 2024,5,19.1,2.71,83.9,No,21,Department
+STU00242,Biology,Spring 2024,3,11.3,2.81,77.1,No,22,Department
+STU00243,Mathematics,Fall 2024,3,18.8,3.16,92.5,No,41,Need-based
+STU00244,Engineering,Fall 2024,4,11.9,2.8,90.4,No,34,Athletic
+STU00245,Business,Fall 2023,5,1.6,2.17,78.5,No,29,Department
+STU00246,Computer Science,Fall 2023,4,22.0,2.9,61.4,No,41,Need-based
+STU00247,Biology,Fall 2024,3,7.1,2.29,62.3,No,24,Merit
+STU00248,Engineering,Fall 2023,6,14.1,2.56,84.8,Yes,37,None
+STU00249,Biology,Fall 2023,4,7.2,2.37,77.7,No,5,Athletic
+STU00250,Biology,Spring 2024,6,11.7,2.29,88.1,No,52,Need-based
+STU00251,Engineering,Fall 2023,3,16.8,3.14,80.3,Yes,38,Athletic
+STU00252,Biology,Fall 2024,5,13.8,2.83,71.2,No,36,None
+STU00253,Biology,Spring 2024,4,10.6,2.22,92.0,No,37,None
+STU00254,Business,Fall 2024,3,9.2,2.63,66.6,No,22,Athletic
+STU00255,Business,Fall 2023,6,19.3,3.23,95.1,No,15,Department
+STU00256,Computer Science,Fall 2024,3,15.3,2.96,85.5,Yes,27,None
+STU00257,Mathematics,Fall 2024,6,16.8,3.3,72.1,Yes,49,None
+STU00258,Business,Fall 2024,3,20.6,3.13,79.5,No,37,Need-based
+STU00259,Computer Science,Fall 2023,3,21.6,2.96,85.1,No,9,None
+STU00260,Mathematics,Fall 2024,5,7.2,2.72,77.5,No,23,None
+STU00261,Biology,Fall 2024,4,10.2,2.35,69.6,No,23,Department
+STU00262,Biology,Fall 2023,3,23.0,2.95,79.2,No,9,Need-based
+STU00263,Mathematics,Fall 2023,6,15.7,2.98,74.1,No,,Athletic
+STU00264,Mathematics,Fall 2024,6,12.7,3.32,90.5,Yes,13,Department
+STU00265,Mathematics,Fall 2023,4,11.8,2.16,72.2,No,27,Department
+STU00266,Business,Spring 2024,6,19.9,2.49,77.6,No,13,Athletic
+STU00267,Business,Spring 2024,5,19.1,2.62,81.4,No,20,Athletic
+STU00268,Engineering,Fall 2024,4,24.4,3.66,56.4,Yes,21,Merit
+STU00269,Biology,Fall 2024,4,19.8,3.35,76.8,No,31,Athletic
+STU00270,Computer Science,Spring 2024,4,10.0,2.94,63.2,No,18,Athletic
+STU00271,Business,Fall 2024,5,16.8,3.27,62.8,Yes,20,Athletic
+STU00272,Computer Science,Fall 2024,6,9.3,1.72,82.3,No,13,Athletic
+STU00273,Computer Science,Spring 2024,5,17.7,2.78,90.8,Yes,16,Merit
+STU00274,Mathematics,Fall 2024,6,12.8,2.98,72.7,Yes,25,Athletic
+STU00275,Computer Science,Fall 2023,5,19.6,2.98,88.3,No,13,Merit
+STU00276,Engineering,Fall 2023,5,11.4,3.02,83.6,Yes,13,Department
+STU00277,Engineering,Spring 2024,3,12.6,2.38,84.1,No,19,None
+STU00278,Business,Fall 2024,3,25.1,3.41,86.9,Yes,24,Merit
+STU00279,Business,Spring 2024,3,2.5,2.57,79.6,No,37,Merit
+STU00280,Computer Science,Fall 2024,4,11.5,2.74,68.4,No,25,Athletic
+STU00281,Biology,Fall 2024,3,13.0,2.81,77.0,Yes,20,Athletic
+STU00282,Computer Science,Fall 2024,5,15.7,2.35,67.9,No,6,Merit
+STU00283,Business,Fall 2024,5,7.8,1.89,78.0,No,24,None
+STU00284,Mathematics,Spring 2024,3,4.0,2.21,82.9,No,18,Need-based
+STU00285,Engineering,Fall 2023,5,14.8,2.96,74.1,No,12,Merit
+STU00286,Computer Science,Spring 2024,3,13.0,2.41,92.4,No,12,Department
+STU00287,Computer Science,Spring 2024,3,11.5,2.79,77.7,No,35,Merit
+STU00288,Engineering,Fall 2024,4,14.9,3.03,92.0,Yes,28,None
+STU00289,Computer Science,Fall 2023,6,9.4,2.37,66.6,No,19,Athletic
+STU00290,Business,Spring 2024,3,13.6,2.72,69.9,No,18,Department
+STU00291,Engineering,Fall 2023,4,25.2,3.21,87.0,No,13,Department
+STU00292,Business,Fall 2024,3,16.1,2.91,87.1,No,28,Department
+STU00293,Business,Fall 2024,5,14.6,3.21,87.1,No,49,Athletic
+STU00294,Engineering,Spring 2024,3,12.7,2.58,85.0,No,9,Department
+STU00295,Engineering,Fall 2023,3,23.5,3.46,84.6,Yes,17,Department
+STU00296,Mathematics,Fall 2023,5,11.2,2.8,70.7,No,22,Merit
+STU00297,Engineering,Fall 2024,4,20.2,3.2,88.8,No,5,None
+STU00298,Mathematics,Fall 2023,3,18.1,2.99,69.2,No,38,Need-based
+STU00299,Biology,Fall 2024,3,11.0,2.74,62.6,No,29,Need-based
+STU00300,Mathematics,Fall 2024,6,7.5,1.73,50.4,Yes,6,Need-based
+STU00301,Computer Science,Fall 2024,6,21.9,3.53,79.2,No,36,Merit
+STU00302,Biology,Spring 2024,4,23.8,3.85,90.5,No,43,Need-based
+STU00303,Mathematics,Fall 2023,6,21.4,2.97,66.1,No,15,Department
+STU00304,Mathematics,Fall 2023,6,24.7,3.08,78.5,No,17,Department
+STU00305,Mathematics,Fall 2024,5,16.3,2.78,76.6,No,27,Athletic
+STU00306,Biology,Fall 2024,3,7.5,3.08,90.8,Yes,,Athletic
+STU00307,Computer Science,Fall 2024,3,13.6,2.02,71.8,No,28,Need-based
+STU00308,Computer Science,Fall 2023,6,18.8,3.12,63.3,No,9,Merit
+STU00309,Engineering,Fall 2024,4,19.6,2.65,90.2,No,11,Merit
+STU00310,Computer Science,Fall 2024,5,11.6,2.63,76.0,No,5,None
+STU00311,Biology,Fall 2023,4,25.4,3.34,73.9,No,17,Department
+STU00312,Computer Science,Fall 2023,5,15.1,2.59,75.5,Yes,35,Department
+STU00313,Business,Spring 2024,3,10.4,2.35,80.2,No,31,None
+STU00314,Computer Science,Fall 2024,3,18.7,3.09,63.4,No,25,Need-based
+STU00315,Mathematics,Fall 2024,6,18.2,2.74,80.2,Yes,42,Need-based
+STU00316,Computer Science,Fall 2024,3,19.0,2.89,81.5,Yes,,None
+STU00317,Business,Spring 2024,5,15.8,2.67,70.4,No,41,Need-based
+STU00318,Engineering,Spring 2024,6,30.6,3.71,67.6,No,31,Merit
+STU00319,Computer Science,Fall 2024,6,18.4,3.39,78.1,Yes,30,Athletic
+STU00320,Biology,Spring 2024,6,24.7,2.76,92.5,Yes,14,Department
+STU00321,Business,Spring 2024,5,6.4,2.39,81.8,No,10,None
+STU00322,Mathematics,Fall 2023,5,15.3,3.09,75.1,Yes,32,None
+STU00323,Engineering,Spring 2024,5,12.8,2.17,82.5,No,25,Need-based
+STU00324,Mathematics,Fall 2023,6,24.0,3.46,69.5,Yes,7,Athletic
+STU00325,Biology,Spring 2024,5,18.5,3.0,60.8,No,5,Department
+STU00326,Biology,Fall 2023,5,11.2,3.53,86.3,Yes,13,Department
+STU00327,Computer Science,Fall 2023,6,13.2,2.68,85.9,No,36,Merit
+STU00328,Biology,Fall 2023,5,6.4,2.44,73.6,No,,None
+STU00329,Mathematics,Spring 2024,3,11.3,3.44,98.9,Yes,21,None
+STU00330,Computer Science,Spring 2024,3,18.6,3.53,75.6,No,15,Department
+STU00331,Engineering,Fall 2024,6,6.1,2.09,73.9,No,14,Need-based
+STU00332,Computer Science,Fall 2024,4,13.7,2.45,61.3,No,18,Athletic
+STU00333,Engineering,Fall 2023,3,14.4,2.55,65.6,No,5,None
+STU00334,Mathematics,Fall 2024,5,29.5,3.11,89.1,No,27,Need-based
+STU00335,Engineering,Spring 2024,6,17.9,3.08,69.9,No,9,Athletic
+STU00336,Business,Fall 2024,4,23.3,2.98,61.9,No,42,Department
+STU00337,Computer Science,Fall 2023,6,16.3,2.71,100,No,48,None
+STU00338,Mathematics,Spring 2024,6,18.3,3.05,100,No,32,Merit
+STU00339,Mathematics,Fall 2023,6,17.0,2.54,86.3,Yes,21,Athletic
+STU00340,Biology,Spring 2024,3,7.9,2.44,84.7,No,37,Need-based
+STU00341,Mathematics,Spring 2024,3,26.0,3.49,82.4,Yes,16,Department
+STU00342,Mathematics,Spring 2024,5,17.4,3.22,80.2,Yes,38,Merit
+STU00343,Computer Science,Fall 2024,4,7.7,2.9,74.3,No,7,Merit
+STU00344,Biology,Fall 2023,3,7.0,1.55,73.6,No,33,Merit
+STU00345,Mathematics,Spring 2024,3,16.0,3.01,100,No,24,Athletic
+STU00346,Computer Science,Spring 2024,5,9.6,2.78,76.9,No,34,Department
+STU00347,Engineering,Fall 2024,6,21.6,2.76,81.6,No,26,Athletic
+STU00348,Business,Fall 2023,6,13.3,2.28,96.4,No,21,Need-based
+STU00349,Business,Spring 2024,4,5.7,2.6,73.4,No,16,Department
+STU00350,Computer Science,Fall 2024,4,8.6,2.43,96.9,No,11,Merit
+STU00351,Business,Fall 2023,4,16.5,2.53,54.6,No,33,Athletic
+STU00352,Computer Science,Fall 2024,6,14.4,2.89,90.0,No,36,Athletic
+STU00353,Mathematics,Fall 2024,3,8.9,1.98,76.0,No,24,None
+STU00354,Mathematics,Spring 2024,5,14.7,2.62,77.9,No,33,Department
+STU00355,Computer Science,Fall 2023,5,21.0,2.72,55.3,No,23,None
+STU00356,Mathematics,Spring 2024,3,19.4,3.6,80.0,No,22,None
+STU00357,Engineering,Spring 2024,4,21.2,2.96,90.3,No,35,Department
+STU00358,Computer Science,Spring 2024,5,11.4,3.48,69.5,Yes,11,Athletic
+STU00359,Engineering,Fall 2023,5,3.1,2.14,83.0,No,,Athletic
+STU00360,Mathematics,Spring 2024,5,17.3,3.37,91.1,No,19,Athletic
+STU00361,Business,Spring 2024,3,14.9,3.14,74.4,Yes,23,None
+STU00362,Biology,Fall 2023,5,2.6,2.78,92.7,Yes,6,Department
+STU00363,Computer Science,Fall 2023,6,24.6,2.98,62.8,No,25,Need-based
+STU00364,Engineering,Spring 2024,5,15.2,3.12,73.4,No,39,Athletic
+STU00365,Computer Science,Spring 2024,5,26.1,3.18,100,No,15,Merit
+STU00366,Biology,Fall 2024,4,19.6,2.82,62.9,No,14,None
+STU00367,Biology,Spring 2024,4,13.1,2.89,84.1,Yes,,Need-based
+STU00368,Biology,Fall 2024,6,21.3,3.14,83.7,Yes,16,Merit
+STU00369,Computer Science,Fall 2023,5,18.9,3.08,71.9,Yes,49,Athletic
+STU00370,Business,Spring 2024,5,16.6,2.77,86.2,Yes,15,Need-based
+STU00371,Biology,Spring 2024,5,17.5,3.01,71.5,Yes,44,Need-based
+STU00372,Computer Science,Fall 2024,4,18.8,3.33,72.6,Yes,48,None
+STU00373,Business,Fall 2024,5,16.6,3.35,76.9,Yes,14,Need-based
+STU00374,Computer Science,Fall 2024,3,18.3,3.26,75.7,No,26,None
+STU00375,Engineering,Fall 2023,4,14.2,2.39,88.5,No,,Merit
+STU00376,Biology,Spring 2024,3,13.1,2.31,78.3,No,,Merit
+STU00377,Mathematics,Fall 2024,3,19.7,3.38,61.7,No,13,Department
+STU00378,Engineering,Fall 2023,6,16.8,2.1,62.9,No,,Department
+STU00379,Computer Science,Spring 2024,5,9.6,2.52,64.9,Yes,11,Merit
+STU00380,Biology,Fall 2024,5,15.6,3.17,75.3,Yes,28,Need-based
+STU00381,Computer Science,Fall 2023,4,18.6,2.9,96.4,No,42,Department
+STU00382,Mathematics,Fall 2023,6,15.0,2.67,75.4,Yes,36,Need-based
+STU00383,Computer Science,Spring 2024,3,11.6,2.82,78.6,Yes,19,Need-based
+STU00384,Computer Science,Fall 2024,4,13.8,3.11,90.5,No,12,Need-based
+STU00385,Engineering,Spring 2024,3,3.9,1.56,71.6,No,5,Need-based
+STU00386,Biology,Fall 2024,5,20.8,3.63,63.2,Yes,15,Need-based
+STU00387,Computer Science,Fall 2023,3,8.7,2.24,84.1,No,17,Athletic
+STU00388,Mathematics,Spring 2024,5,20.8,3.7,79.0,Yes,,Athletic
+STU00389,Biology,Fall 2023,4,7.6,3.15,98.1,Yes,37,Athletic
+STU00390,Computer Science,Fall 2023,5,9.9,2.84,70.9,No,14,Department
+STU00391,Biology,Spring 2024,4,19.4,2.96,75.5,Yes,29,Need-based
+STU00392,Mathematics,Fall 2024,3,15.7,2.79,74.3,No,36,Department
+STU00393,Mathematics,Spring 2024,3,12.8,2.66,67.8,No,18,Merit
+STU00394,Biology,Fall 2024,3,15.3,2.58,71.5,No,26,None
+STU00395,Business,Spring 2024,4,17.4,2.66,91.0,No,39,Merit
+STU00396,Computer Science,Spring 2024,3,23.1,2.88,89.0,No,24,Need-based
+STU00397,Engineering,Fall 2023,6,16.9,3.2,86.4,Yes,,Merit
+STU00398,Biology,Spring 2024,4,19.3,3.3,77.5,Yes,18,Merit
+STU00399,Biology,Fall 2023,4,12.3,2.48,75.4,Yes,16,None
+STU00400,Biology,Fall 2023,6,21.5,2.58,71.9,No,5,Athletic
+STU00401,Business,Spring 2024,4,13.9,2.84,74.6,No,34,None
+STU00402,Business,Fall 2023,6,21.0,3.26,69.9,No,,None
+STU00403,Business,Fall 2024,6,9.3,2.36,74.6,No,8,Department
+STU00404,Engineering,Fall 2023,4,14.3,2.69,96.0,No,29,Department
+STU00405,Business,Spring 2024,4,8.0,2.54,95.2,No,25,Merit
+STU00406,Mathematics,Fall 2023,5,29.9,4.0,88.6,No,,Need-based
+STU00407,Computer Science,Fall 2024,3,14.9,2.6,83.4,No,17,Athletic
+STU00408,Engineering,Fall 2024,3,15.7,2.72,85.0,Yes,16,Athletic
+STU00409,Engineering,Spring 2024,3,6.1,2.48,79.4,No,39,Need-based
+STU00410,Business,Fall 2023,6,16.1,2.42,68.9,No,28,Department
+STU00411,Biology,Fall 2023,6,20.8,3.64,68.6,No,17,Athletic
+STU00412,Engineering,Fall 2024,5,19.1,3.24,75.3,Yes,18,None
+STU00413,Biology,Spring 2024,5,7.8,2.29,100,No,30,Department
+STU00414,Biology,Fall 2023,6,14.6,1.99,82.7,No,34,Merit
+STU00415,Biology,Fall 2023,5,22.4,3.56,95.6,Yes,24,None
+STU00416,Engineering,Spring 2024,4,7.3,2.57,93.2,No,28,Department
+STU00417,Mathematics,Fall 2023,6,19.6,3.53,55.4,Yes,12,None
+STU00418,Biology,Spring 2024,4,11.2,2.83,75.0,No,30,Department
+STU00419,Mathematics,Fall 2024,3,7.3,2.11,57.6,No,,Athletic
+STU00420,Business,Fall 2024,4,13.2,2.31,71.1,No,31,None
+STU00421,Computer Science,Fall 2023,4,23.4,3.09,78.4,Yes,27,Department
+STU00422,Mathematics,Spring 2024,4,15.0,3.02,67.9,No,25,Need-based
+STU00423,Business,Fall 2024,6,20.4,3.36,71.4,Yes,23,Department
+STU00424,Biology,Spring 2024,5,19.2,2.72,55.5,No,15,Athletic
+STU00425,Engineering,Fall 2023,3,20.2,3.53,82.9,No,33,Merit
+STU00426,Engineering,Fall 2023,6,11.1,2.37,91.2,No,,Need-based
+STU00427,Business,Fall 2024,4,21.1,3.33,87.5,No,5,Need-based
+STU00428,Mathematics,Fall 2024,3,24.4,3.24,50.2,Yes,27,Merit
+STU00429,Engineering,Fall 2024,3,18.1,2.75,73.7,No,14,Need-based
+STU00430,Engineering,Fall 2023,4,19.3,3.54,87.6,Yes,17,Merit
+STU00431,Computer Science,Fall 2024,6,8.0,2.7,83.2,Yes,41,Need-based
+STU00432,Business,Spring 2024,6,14.2,2.97,79.8,No,11,None
+STU00433,Biology,Fall 2024,3,14.3,3.36,81.4,Yes,19,Merit
+STU00434,Biology,Spring 2024,5,17.2,2.89,81.4,No,26,None
+STU00435,Mathematics,Fall 2024,4,14.8,3.0,91.0,Yes,24,Need-based
+STU00436,Engineering,Fall 2023,4,19.2,2.98,86.5,No,36,Merit
+STU00437,Computer Science,Spring 2024,3,9.2,2.43,69.6,No,31,Department
+STU00438,Business,Fall 2024,5,16.8,2.08,78.1,No,33,Department
+STU00439,Business,Fall 2024,4,11.7,2.31,71.7,No,29,Department
+STU00440,Mathematics,Spring 2024,4,12.5,2.97,88.2,Yes,35,None
+STU00441,Business,Spring 2024,4,15.7,3.71,84.3,Yes,,Athletic
+STU00442,Biology,Fall 2023,4,13.4,2.33,78.6,No,36,Department
+STU00443,Engineering,Spring 2024,6,15.0,2.8,87.8,Yes,30,Department
+STU00444,Computer Science,Fall 2023,5,10.5,2.14,70.9,No,31,Athletic
+STU00445,Mathematics,Fall 2024,6,3.0,2.53,83.5,No,,Athletic
+STU00446,Business,Spring 2024,6,21.9,3.77,100,No,24,Need-based
+STU00447,Biology,Fall 2023,6,24.5,3.46,85.4,No,44,Department
+STU00448,Business,Fall 2023,5,6.9,2.27,68.0,Yes,27,Merit
+STU00449,Biology,Fall 2023,6,22.3,2.9,83.8,No,,Merit
+STU00450,Business,Fall 2024,5,19.7,3.45,48.2,No,39,Need-based
+STU00451,Mathematics,Spring 2024,4,11.5,2.42,71.6,No,,Merit
+STU00452,Biology,Fall 2023,6,15.0,3.14,97.5,No,35,Merit
+STU00453,Engineering,Spring 2024,5,13.1,2.92,98.4,No,16,Merit
+STU00454,Mathematics,Fall 2024,4,13.0,2.59,74.3,No,28,Need-based
+STU00455,Business,Fall 2024,4,13.6,3.1,82.2,Yes,,Department
+STU00456,Computer Science,Spring 2024,6,22.6,2.53,65.4,No,8,Department
+STU00457,Mathematics,Fall 2023,6,7.9,2.32,81.6,No,33,Department
+STU00458,Biology,Spring 2024,5,8.5,2.27,62.5,No,22,Merit
+STU00459,Business,Fall 2024,5,12.7,2.9,94.5,No,36,Athletic
+STU00460,Mathematics,Spring 2024,3,19.4,3.29,80.7,No,21,Department
+STU00461,Mathematics,Fall 2023,6,15.6,3.13,72.6,No,48,Merit
+STU00462,Mathematics,Spring 2024,5,19.6,2.79,76.5,No,5,Department
+STU00463,Mathematics,Fall 2024,6,12.4,2.12,79.4,No,21,Merit
+STU00464,Mathematics,Spring 2024,3,18.7,2.52,78.2,No,15,None
+STU00465,Mathematics,Fall 2024,6,7.0,2.71,88.0,No,23,None
+STU00466,Mathematics,Spring 2024,6,12.7,2.52,68.3,No,8,Merit
+STU00467,Biology,Spring 2024,5,14.0,3.28,89.4,No,40,Department
+STU00468,Mathematics,Fall 2023,3,16.5,2.56,80.4,No,23,Need-based
+STU00469,Business,Fall 2023,6,8.2,2.5,61.0,No,36,Athletic
+STU00470,Business,Fall 2023,6,15.6,2.36,75.1,No,45,Merit
+STU00471,Business,Fall 2023,4,9.8,3.06,77.0,No,,Need-based
+STU00472,Biology,Spring 2024,3,11.9,2.84,82.6,No,22,Department
+STU00473,Mathematics,Spring 2024,4,22.7,3.12,82.5,Yes,8,Athletic
+STU00474,Business,Spring 2024,4,21.0,2.82,91.8,No,14,None
+STU00475,Biology,Fall 2024,3,7.5,2.16,59.7,No,32,Athletic
+STU00476,Biology,Fall 2023,5,21.5,2.68,76.6,No,24,Department
+STU00477,Business,Spring 2024,5,11.1,3.09,53.7,No,38,Athletic
+STU00478,Biology,Spring 2024,3,20.7,2.88,86.5,Yes,36,Need-based
+STU00479,Engineering,Fall 2024,3,17.8,2.99,79.2,No,5,Need-based
+STU00480,Mathematics,Fall 2024,5,10.4,2.8,83.3,No,46,None
+STU00481,Computer Science,Spring 2024,6,11.5,2.63,75.5,Yes,18,Athletic
+STU00482,Computer Science,Fall 2024,6,26.1,2.83,83.5,No,26,None
+STU00483,Computer Science,Fall 2024,4,11.2,3.13,71.5,No,,Department
+STU00484,Business,Fall 2023,5,6.2,2.1,75.4,No,25,None
+STU00485,Mathematics,Fall 2023,5,15.2,3.07,69.2,No,58,Need-based
+STU00486,Computer Science,Fall 2023,5,5.8,2.62,63.8,No,42,None
+STU00487,Computer Science,Fall 2024,3,11.1,3.06,78.6,Yes,,Merit
+STU00488,Computer Science,Spring 2024,4,12.1,2.79,82.6,No,5,None
+STU00489,Biology,Fall 2023,5,10.7,3.09,74.2,Yes,30,Need-based
+STU00490,Engineering,Fall 2024,6,18.1,2.8,62.9,No,50,Need-based
+STU00491,Mathematics,Spring 2024,5,20.2,3.15,63.5,No,20,None
+STU00492,Mathematics,Spring 2024,6,13.3,2.84,90.3,Yes,32,Merit
+STU00493,Biology,Fall 2024,6,10.9,2.76,86.2,Yes,13,Need-based
+STU00494,Biology,Fall 2023,4,6.3,2.29,82.8,No,46,Merit
+STU00495,Computer Science,Fall 2023,3,6.8,2.72,67.3,No,41,Athletic
+STU00496,Biology,Fall 2024,4,18.3,2.75,70.1,Yes,41,Athletic
+STU00497,Engineering,Spring 2024,4,8.7,1.95,83.4,No,44,Athletic
+STU00498,Engineering,Fall 2024,4,24.2,3.01,52.7,No,28,None
+STU00499,Computer Science,Spring 2024,3,14.2,2.59,86.4,No,27,Merit
+STU00500,Business,Fall 2023,4,14.9,3.13,72.6,No,6,None
+STU00501,Mathematics,Fall 2024,5,10.7,2.74,92.6,No,33,Athletic
+STU00502,Computer Science,Fall 2023,5,24.7,3.56,54.6,No,36,Merit
+STU00503,Mathematics,Fall 2024,6,19.8,3.42,73.3,Yes,21,None
+STU00504,Engineering,Fall 2023,6,4.8,2.34,90.3,No,50,Merit
+STU00505,Engineering,Spring 2024,4,13.4,3.14,91.1,No,23,Merit
+STU00506,Computer Science,Spring 2024,6,28.5,3.85,70.2,Yes,38,Need-based
+STU00507,Engineering,Spring 2024,3,14.1,2.05,74.0,No,25,Athletic
+STU00508,Mathematics,Fall 2024,5,7.8,2.47,84.7,No,22,None
+STU00509,Business,Spring 2024,5,1.4,2.18,73.2,No,22,Department
+STU00510,Engineering,Fall 2024,4,15.4,2.69,91.7,No,5,Merit
+STU00511,Computer Science,Spring 2024,4,6.4,1.97,94.2,No,22,Merit
+STU00512,Computer Science,Fall 2023,5,20.5,2.74,77.4,No,30,None
+STU00513,Computer Science,Spring 2024,3,13.6,3.1,75.0,Yes,5,Merit
+STU00514,Mathematics,Spring 2024,3,17.5,2.73,88.1,No,,Need-based
+STU00515,Engineering,Spring 2024,5,21.8,2.74,52.6,No,36,Department
+STU00516,Mathematics,Spring 2024,3,27.2,3.25,67.2,Yes,5,Need-based
+STU00517,Computer Science,Fall 2024,4,11.0,2.4,79.0,No,21,Athletic
+STU00518,Biology,Spring 2024,6,20.3,3.31,78.7,No,19,Department
+STU00519,Engineering,Fall 2024,6,18.4,2.68,88.0,No,28,Department
+STU00520,Engineering,Spring 2024,3,21.6,3.12,69.4,No,55,Need-based
+STU00521,Computer Science,Fall 2023,6,22.1,3.16,88.0,Yes,23,Athletic
+STU00522,Business,Fall 2023,4,14.1,3.04,65.9,Yes,19,Need-based
+STU00523,Engineering,Fall 2023,3,7.5,2.2,73.0,No,10,Merit
+STU00524,Biology,Fall 2023,5,10.2,2.08,63.5,No,13,Merit
+STU00525,Mathematics,Fall 2024,4,12.7,1.81,63.6,No,28,Need-based
+STU00526,Engineering,Fall 2023,5,13.5,2.51,72.9,Yes,,Athletic
+STU00527,Computer Science,Spring 2024,5,14.4,3.11,81.7,No,16,None
+STU00528,Computer Science,Spring 2024,5,21.8,2.89,73.3,No,28,Department
+STU00529,Mathematics,Spring 2024,3,17.7,2.6,81.0,Yes,29,None
+STU00530,Mathematics,Fall 2023,4,19.5,3.04,86.2,Yes,7,None
+STU00531,Engineering,Fall 2023,3,11.6,2.78,54.3,No,5,Merit
+STU00532,Computer Science,Fall 2024,6,16.5,2.06,72.1,Yes,,Athletic
+STU00533,Computer Science,Fall 2024,4,17.1,2.96,70.8,No,10,None
+STU00534,Engineering,Fall 2023,4,10.4,2.12,69.6,No,21,None
+STU00535,Biology,Fall 2023,5,15.3,3.42,62.5,Yes,40,Merit
+STU00536,Business,Spring 2024,5,17.5,3.14,93.5,Yes,33,Merit
+STU00537,Mathematics,Fall 2024,5,15.4,2.76,88.5,Yes,11,Need-based
+STU00538,Mathematics,Fall 2023,5,16.9,3.32,73.3,No,20,Need-based
+STU00539,Mathematics,Fall 2023,6,12.0,2.93,98.6,No,32,Merit
+STU00540,Mathematics,Spring 2024,5,10.5,2.82,65.4,Yes,6,Department
+STU00541,Biology,Spring 2024,3,17.4,2.79,64.4,No,59,Athletic
+STU00542,Business,Spring 2024,4,17.0,2.63,78.2,No,21,Need-based
+STU00543,Biology,Fall 2024,3,15.4,2.91,76.7,Yes,,None
+STU00544,Mathematics,Fall 2024,6,19.3,2.55,88.4,Yes,18,Need-based
+STU00545,Engineering,Fall 2024,5,7.9,2.4,80.6,No,31,Merit
+STU00546,Mathematics,Fall 2024,3,12.4,2.96,79.6,No,25,Merit
+STU00547,Engineering,Fall 2023,3,10.4,2.54,95.0,No,33,None
+STU00548,Mathematics,Fall 2023,5,19.2,3.0,63.3,Yes,38,Merit
+STU00549,Business,Fall 2023,5,17.6,3.03,76.0,Yes,42,Athletic
+STU00550,Mathematics,Spring 2024,4,25.9,3.35,67.5,No,22,Athletic
+STU00551,Biology,Fall 2024,6,22.4,2.81,72.4,No,,Merit
+STU00552,Mathematics,Fall 2023,3,1.8,2.38,70.8,Yes,40,Department
+STU00553,Computer Science,Fall 2023,6,24.8,2.69,63.8,No,15,Merit
+STU00554,Computer Science,Fall 2023,5,7.7,2.31,65.6,No,5,None
+STU00555,Biology,Fall 2023,4,16.5,2.81,82.7,No,21,Merit
+STU00556,Engineering,Spring 2024,5,19.2,3.07,86.7,No,30,Department
+STU00557,Biology,Fall 2024,3,24.5,3.13,93.2,Yes,24,None
+STU00558,Engineering,Fall 2023,3,28.3,3.83,60.5,Yes,,Athletic
+STU00559,Biology,Fall 2024,6,14.9,3.09,91.1,No,24,None
+STU00560,Computer Science,Fall 2024,5,16.4,2.34,60.1,No,37,Department
+STU00561,Biology,Fall 2024,4,14.1,2.79,85.2,No,10,Department
+STU00562,Biology,Fall 2023,5,15.1,2.25,59.5,No,18,Merit
+STU00563,Engineering,Fall 2023,5,17.4,2.81,87.1,No,,None
+STU00564,Business,Fall 2024,4,20.0,3.25,83.9,No,21,Need-based
+STU00565,Mathematics,Fall 2024,3,16.7,2.47,73.5,No,15,Merit
+STU00566,Computer Science,Fall 2023,3,4.7,2.8,96.1,Yes,22,Department
+STU00567,Business,Fall 2024,5,22.3,3.3,63.9,No,25,Merit
+STU00568,Biology,Fall 2023,5,10.0,2.16,71.9,No,18,Merit
+STU00569,Engineering,Fall 2023,6,13.9,2.75,71.0,No,15,None
+STU00570,Biology,Spring 2024,4,6.3,2.81,77.5,No,25,None
+STU00571,Mathematics,Fall 2024,3,16.2,2.52,73.9,No,45,Merit
+STU00572,Business,Spring 2024,6,14.4,2.7,58.9,No,20,Athletic
+STU00573,Business,Spring 2024,4,21.1,2.51,79.5,No,35,Merit
+STU00574,Engineering,Spring 2024,4,17.6,2.91,60.8,Yes,42,Department
+STU00575,Computer Science,Fall 2024,4,26.3,3.83,57.4,Yes,,None
+STU00576,Biology,Spring 2024,6,25.4,3.27,66.2,No,43,Department
+STU00577,Business,Spring 2024,4,9.6,2.05,66.2,Yes,25,Need-based
+STU00578,Mathematics,Spring 2024,5,13.1,3.01,100,No,45,Merit
+STU00579,Engineering,Fall 2024,4,21.8,2.95,55.0,Yes,23,Need-based
+STU00580,Engineering,Spring 2024,5,12.8,2.61,77.1,No,39,Athletic
+STU00581,Computer Science,Fall 2023,6,9.5,2.53,78.4,No,19,Athletic
+STU00582,Mathematics,Spring 2024,6,14.1,2.76,89.0,Yes,11,Athletic
+STU00583,Mathematics,Fall 2023,4,25.3,3.82,100,Yes,20,Department
+STU00584,Biology,Fall 2023,6,11.0,2.6,72.4,No,28,Athletic
+STU00585,Mathematics,Fall 2024,5,20.1,2.87,50.4,No,38,Need-based
+STU00586,Computer Science,Fall 2023,4,9.7,2.56,59.0,Yes,25,None
+STU00587,Mathematics,Fall 2024,3,10.1,2.29,82.9,No,33,Athletic
+STU00588,Business,Fall 2024,6,13.5,2.79,85.1,No,29,Need-based
+STU00589,Business,Spring 2024,4,18.6,2.27,72.1,No,34,Department
+STU00590,Mathematics,Spring 2024,4,12.9,3.07,68.7,Yes,16,Athletic
+STU00591,Mathematics,Fall 2024,5,14.5,3.01,74.2,No,27,Athletic
+STU00592,Biology,Fall 2023,6,17.0,3.21,98.8,Yes,25,Department
+STU00593,Engineering,Spring 2024,4,17.3,2.96,51.9,Yes,35,Athletic
+STU00594,Mathematics,Fall 2023,4,6.0,1.82,68.4,No,,Department
+STU00595,Biology,Spring 2024,3,23.0,2.82,80.1,No,22,Need-based
+STU00596,Engineering,Fall 2024,4,16.1,3.06,75.4,No,10,None
+STU00597,Engineering,Fall 2023,6,14.3,2.22,70.6,No,43,Department
+STU00598,Engineering,Fall 2023,6,9.0,2.72,94.5,No,9,Merit
+STU00599,Engineering,Fall 2023,5,12.9,2.46,88.1,Yes,33,Department
+STU00600,Mathematics,Fall 2023,3,12.4,3.27,85.4,Yes,31,Merit
+STU00601,Biology,Spring 2024,4,16.2,3.04,77.4,No,38,Department
+STU00602,Engineering,Spring 2024,6,16.9,2.6,81.9,No,,Department
+STU00603,Mathematics,Spring 2024,4,6.6,2.11,100,No,19,Athletic
+STU00604,Business,Spring 2024,5,10.8,2.57,79.1,No,39,None
+STU00605,Computer Science,Fall 2024,4,13.0,2.21,69.1,Yes,20,Need-based
+STU00606,Biology,Fall 2023,4,22.3,2.85,60.2,No,11,Need-based
+STU00607,Engineering,Fall 2023,6,15.3,3.06,82.0,No,35,Need-based
+STU00608,Business,Fall 2024,3,17.5,3.05,88.1,No,38,Need-based
+STU00609,Mathematics,Spring 2024,3,20.7,2.7,71.5,No,44,Athletic
+STU00610,Biology,Fall 2023,4,12.1,2.57,80.2,Yes,33,Need-based
+STU00611,Mathematics,Spring 2024,4,11.1,3.01,87.9,No,,Need-based
+STU00612,Computer Science,Spring 2024,4,26.1,3.23,88.0,No,45,None
+STU00613,Business,Spring 2024,5,1.8,1.88,83.8,No,11,Athletic
+STU00614,Biology,Fall 2024,4,15.0,2.91,81.3,No,36,Athletic
+STU00615,Biology,Spring 2024,6,19.4,3.25,86.1,No,19,Athletic
+STU00616,Computer Science,Fall 2023,6,14.9,2.54,100,No,22,None
+STU00617,Mathematics,Spring 2024,3,22.6,3.02,79.2,No,25,Department
+STU00618,Business,Spring 2024,5,10.3,2.2,88.4,No,32,Merit
+STU00619,Engineering,Fall 2023,5,10.4,3.23,74.8,Yes,27,Athletic
+STU00620,Business,Fall 2024,4,13.1,3.12,72.0,Yes,34,Merit
+STU00621,Engineering,Spring 2024,3,6.3,2.9,89.1,No,38,Athletic
+STU00622,Business,Fall 2023,5,21.9,3.3,72.6,No,30,Athletic
+STU00623,Computer Science,Fall 2023,5,15.3,2.14,71.1,No,43,Merit
+STU00624,Mathematics,Spring 2024,3,24.3,3.13,84.0,No,40,None
+STU00625,Computer Science,Spring 2024,4,14.5,2.8,77.5,Yes,23,Need-based
+STU00626,Computer Science,Fall 2024,6,16.2,3.14,77.7,Yes,22,Athletic
+STU00627,Biology,Fall 2024,4,9.6,3.09,79.8,Yes,5,None
+STU00628,Computer Science,Fall 2023,4,9.6,2.54,85.2,No,50,Merit
+STU00629,Business,Fall 2023,4,8.0,2.29,90.0,No,40,Need-based
+STU00630,Biology,Spring 2024,3,4.1,2.32,79.5,No,42,Athletic
+STU00631,Business,Fall 2024,5,12.7,2.49,57.2,No,5,None
+STU00632,Engineering,Fall 2023,4,7.3,2.02,74.2,No,37,Athletic
+STU00633,Engineering,Spring 2024,3,8.8,2.42,74.4,No,,Merit
+STU00634,Computer Science,Fall 2023,5,11.8,2.97,70.6,No,27,Merit
+STU00635,Biology,Fall 2024,6,26.4,3.14,64.2,No,38,None
+STU00636,Computer Science,Fall 2023,4,12.1,2.68,78.8,No,16,Department
+STU00637,Mathematics,Spring 2024,4,19.8,3.07,69.7,Yes,11,Department
+STU00638,Business,Spring 2024,4,9.7,2.37,81.3,No,5,None
+STU00639,Engineering,Fall 2023,4,24.6,3.03,81.7,Yes,22,Athletic
+STU00640,Business,Fall 2023,6,7.4,2.4,75.3,No,5,Department
+STU00641,Computer Science,Fall 2024,3,8.0,2.72,86.9,No,19,None
+STU00642,Engineering,Fall 2023,5,9.8,2.77,93.5,No,34,None
+STU00643,Mathematics,Fall 2024,6,19.7,3.03,82.2,No,17,Department
+STU00644,Mathematics,Spring 2024,3,23.2,3.31,57.8,No,55,None
+STU00645,Mathematics,Fall 2024,5,9.7,3.06,74.5,Yes,29,None
+STU00646,Business,Fall 2023,3,15.2,3.5,71.6,Yes,10,Need-based
+STU00647,Biology,Fall 2023,3,14.5,3.25,98.5,No,32,Athletic
+STU00648,Biology,Spring 2024,4,8.5,2.55,77.9,No,18,None
+STU00649,Biology,Spring 2024,6,3.1,2.29,62.6,No,42,Merit
+STU00650,Engineering,Spring 2024,5,11.1,2.44,50.1,No,44,Need-based
+STU00651,Engineering,Fall 2024,6,13.2,2.84,81.5,Yes,45,Need-based
+STU00652,Mathematics,Spring 2024,3,22.1,3.21,95.0,No,24,Need-based
+STU00653,Engineering,Fall 2023,4,17.4,2.85,84.3,No,29,Department
+STU00654,Biology,Fall 2024,3,16.5,2.63,85.0,No,18,Merit
+STU00655,Computer Science,Spring 2024,5,9.7,1.91,86.1,No,24,None
+STU00656,Engineering,Fall 2023,3,8.3,2.29,69.6,No,25,Athletic
+STU00657,Mathematics,Fall 2024,4,9.2,2.74,54.7,No,37,Athletic
+STU00658,Mathematics,Fall 2023,6,8.0,2.13,77.1,No,35,Need-based
+STU00659,Engineering,Spring 2024,6,20.6,3.26,69.4,No,58,Athletic
+STU00660,Business,Fall 2024,5,11.9,2.43,76.0,No,32,Athletic
+STU00661,Computer Science,Spring 2024,5,7.2,3.11,88.9,Yes,19,None
+STU00662,Business,Spring 2024,3,20.5,3.36,93.2,No,36,None
+STU00663,Engineering,Spring 2024,6,21.7,3.4,72.8,No,8,Need-based
+STU00664,Mathematics,Fall 2023,5,11.0,2.27,50.6,No,24,Merit
+STU00665,Mathematics,Fall 2023,5,14.7,2.68,72.1,No,33,Athletic
+STU00666,Computer Science,Fall 2023,6,12.3,2.58,74.9,No,32,None
+STU00667,Computer Science,Fall 2024,5,7.9,2.37,66.9,No,21,Athletic
+STU00668,Computer Science,Fall 2024,3,13.4,2.74,73.3,Yes,18,Need-based
+STU00669,Computer Science,Spring 2024,3,13.5,2.94,70.1,Yes,29,Merit
+STU00670,Business,Spring 2024,6,14.3,2.72,79.1,No,21,Need-based
+STU00671,Computer Science,Fall 2024,4,17.7,2.77,83.5,No,28,None
+STU00672,Computer Science,Fall 2024,4,16.6,2.65,77.4,No,38,Need-based
+STU00673,Biology,Spring 2024,4,12.5,2.84,86.0,No,11,None
+STU00674,Engineering,Fall 2024,5,4.3,2.15,90.4,No,42,Need-based
+STU00675,Engineering,Fall 2023,6,11.4,2.31,57.2,Yes,29,Need-based
+STU00676,Engineering,Fall 2024,3,12.6,2.09,73.1,No,5,None
+STU00677,Computer Science,Spring 2024,3,14.6,2.55,83.2,No,40,Department
+STU00678,Business,Fall 2024,6,19.2,3.71,80.0,Yes,34,None
+STU00679,Business,Spring 2024,5,15.4,3.39,62.3,Yes,20,Athletic
+STU00680,Engineering,Fall 2023,4,13.2,2.9,79.5,Yes,30,Merit
+STU00681,Biology,Fall 2023,5,21.5,2.92,100,Yes,40,Merit
+STU00682,Biology,Fall 2024,6,15.8,2.64,76.8,No,23,None
+STU00683,Engineering,Fall 2023,5,22.4,3.03,64.2,No,19,Merit
+STU00684,Computer Science,Fall 2024,6,2.3,2.02,70.9,No,27,Athletic
+STU00685,Computer Science,Spring 2024,3,14.5,2.7,58.6,No,26,Merit
+STU00686,Biology,Fall 2023,3,21.0,2.55,88.8,No,42,Athletic
+STU00687,Computer Science,Spring 2024,5,18.2,2.63,72.2,No,20,Merit
+STU00688,Computer Science,Spring 2024,3,8.7,2.37,67.4,No,32,Department
+STU00689,Engineering,Spring 2024,4,13.8,3.1,64.0,No,,Need-based
+STU00690,Business,Fall 2024,5,16.0,2.81,97.9,No,31,Need-based
+STU00691,Engineering,Fall 2023,6,12.4,2.49,79.7,No,35,Athletic
+STU00692,Business,Fall 2024,4,16.7,3.31,82.2,Yes,27,Department
+STU00693,Biology,Spring 2024,5,13.4,2.6,73.5,No,21,Department
+STU00694,Biology,Spring 2024,6,19.9,3.04,80.0,No,31,Athletic
+STU00695,Business,Fall 2023,5,13.4,2.61,78.9,No,33,Department
+STU00696,Engineering,Spring 2024,4,12.4,3.36,62.2,No,30,None
+STU00697,Business,Fall 2024,3,8.9,2.41,83.5,No,27,Department
+STU00698,Engineering,Fall 2023,6,8.7,1.92,86.6,No,30,Need-based
+STU00699,Engineering,Fall 2023,5,20.0,2.93,100,No,21,Need-based
+STU00700,Engineering,Fall 2024,5,10.7,3.09,60.7,No,44,Athletic
+STU00701,Business,Fall 2023,3,12.0,2.62,85.6,No,19,None
+STU00702,Computer Science,Fall 2024,4,10.4,2.96,66.7,Yes,39,Merit
+STU00703,Biology,Fall 2024,4,21.2,3.35,70.6,Yes,27,Department
+STU00704,Computer Science,Spring 2024,4,5.2,2.25,68.5,No,48,None
+STU00705,Computer Science,Fall 2024,6,23.2,3.18,90.8,No,26,Department
+STU00706,Biology,Spring 2024,4,9.8,3.16,67.2,Yes,8,Need-based
+STU00707,Biology,Spring 2024,5,13.3,2.96,91.3,Yes,20,Merit
+STU00708,Engineering,Spring 2024,6,5.3,2.31,81.2,No,,None
+STU00709,Business,Fall 2023,6,22.8,3.43,57.5,No,21,Need-based
+STU00710,Computer Science,Spring 2024,6,4.6,1.83,87.0,No,36,Athletic
+STU00711,Engineering,Fall 2023,6,6.3,2.45,82.2,No,18,Athletic
+STU00712,Business,Fall 2023,4,8.4,1.97,83.6,No,37,None
+STU00713,Business,Spring 2024,6,10.1,2.39,88.5,No,30,Department
+STU00714,Computer Science,Fall 2023,4,18.7,2.64,71.5,No,,Need-based
+STU00715,Business,Fall 2024,6,6.8,2.84,100,No,12,None
+STU00716,Computer Science,Spring 2024,4,14.7,2.94,92.6,No,41,Athletic
+STU00717,Business,Spring 2024,6,15.6,2.33,83.6,No,5,Department
+STU00718,Biology,Spring 2024,6,11.4,2.36,80.1,Yes,39,Merit
+STU00719,Business,Fall 2023,5,24.2,3.3,70.3,No,35,None
+STU00720,Engineering,Spring 2024,4,17.0,3.15,91.7,No,23,Department
+STU00721,Computer Science,Fall 2023,3,23.6,3.64,75.2,Yes,23,None
+STU00722,Computer Science,Fall 2023,4,18.9,3.03,56.4,No,39,Department
+STU00723,Biology,Fall 2023,3,13.4,3.36,65.6,No,15,Need-based
+STU00724,Mathematics,Fall 2023,5,17.5,3.15,70.0,Yes,50,Need-based
+STU00725,Business,Fall 2024,3,13.9,2.39,73.1,Yes,24,Athletic
+STU00726,Computer Science,Fall 2023,4,13.7,2.56,71.5,No,21,Need-based
+STU00727,Computer Science,Fall 2024,6,14.3,2.64,66.5,No,24,Merit
+STU00728,Mathematics,Fall 2024,6,17.2,2.69,94.0,No,37,Department
+STU00729,Biology,Fall 2023,4,16.7,2.69,74.5,No,27,Department
+STU00730,Business,Fall 2024,4,9.5,2.56,90.2,No,7,Department
+STU00731,Biology,Spring 2024,3,16.1,2.61,77.4,No,30,Department
+STU00732,Computer Science,Spring 2024,4,25.1,3.81,70.2,Yes,23,Merit
+STU00733,Computer Science,Fall 2023,6,10.6,2.87,75.6,No,40,Need-based
+STU00734,Engineering,Spring 2024,5,8.9,2.63,72.5,Yes,15,Athletic
+STU00735,Mathematics,Spring 2024,5,26.4,3.76,100,No,20,None
+STU00736,Computer Science,Spring 2024,3,20.1,3.23,67.8,No,11,Merit
+STU00737,Business,Fall 2023,5,7.1,2.97,63.8,No,27,Athletic
+STU00738,Computer Science,Fall 2024,5,20.3,3.35,79.6,Yes,,Athletic
+STU00739,Business,Spring 2024,5,21.9,2.99,84.1,No,14,Merit
+STU00740,Biology,Fall 2024,6,15.2,3.25,71.5,No,36,Athletic
+STU00741,Mathematics,Fall 2024,3,8.8,2.05,68.1,No,40,Merit
+STU00742,Business,Spring 2024,4,11.8,2.63,95.1,Yes,23,None
+STU00743,Business,Fall 2024,3,16.7,3.02,68.4,No,38,None
+STU00744,Biology,Fall 2023,6,11.8,2.29,63.6,No,,Merit
+STU00745,Engineering,Fall 2023,5,26.8,2.31,78.3,No,16,Merit
+STU00746,Engineering,Spring 2024,3,21.4,2.79,82.4,Yes,22,None
+STU00747,Engineering,Spring 2024,3,15.9,2.48,77.1,No,37,Department
+STU00748,Engineering,Fall 2024,5,11.3,3.17,70.4,No,,Need-based
+STU00749,Biology,Fall 2024,3,10.6,2.97,65.3,No,22,Athletic
+STU00750,Mathematics,Fall 2023,3,12.2,2.35,76.8,No,24,Athletic
+STU00751,Biology,Spring 2024,5,7.8,2.85,58.2,No,35,Need-based
+STU00752,Mathematics,Fall 2024,4,9.0,2.82,82.8,No,,Need-based
+STU00753,Mathematics,Fall 2024,5,21.7,3.41,73.7,Yes,5,Athletic
+STU00754,Biology,Fall 2023,5,4.3,2.52,83.4,No,22,Merit
+STU00755,Mathematics,Fall 2024,3,14.6,3.11,78.0,Yes,8,None
+STU00756,Computer Science,Spring 2024,6,8.8,2.19,91.1,Yes,46,Department
+STU00757,Computer Science,Fall 2023,5,21.9,2.48,96.8,No,31,Merit
+STU00758,Biology,Spring 2024,4,14.3,2.23,71.3,No,37,Department
+STU00759,Computer Science,Fall 2024,5,15.7,2.73,100,No,23,None
+STU00760,Biology,Fall 2024,6,6.5,2.45,100,No,47,Merit
+STU00761,Mathematics,Fall 2023,4,15.0,2.6,66.6,No,5,Department
+STU00762,Computer Science,Spring 2024,4,15.5,2.8,73.9,No,16,Department
+STU00763,Computer Science,Spring 2024,3,8.8,2.61,71.5,No,17,Merit
+STU00764,Computer Science,Fall 2023,6,13.0,2.89,64.5,No,29,None
+STU00765,Computer Science,Spring 2024,6,7.1,2.36,76.7,No,30,Merit
+STU00766,Biology,Fall 2023,6,24.4,4.0,44.3,Yes,12,None
+STU00767,Mathematics,Fall 2024,3,13.9,2.71,96.0,No,34,Athletic
+STU00768,Engineering,Fall 2024,5,12.6,2.61,83.6,No,17,None
+STU00769,Business,Spring 2024,4,11.1,2.59,83.2,No,40,Need-based
+STU00770,Engineering,Spring 2024,5,20.6,2.93,89.0,Yes,56,Athletic
+STU00771,Engineering,Fall 2023,6,19.1,2.12,68.4,No,33,Need-based
+STU00772,Mathematics,Fall 2024,4,18.0,3.28,96.1,No,11,Department
+STU00773,Computer Science,Fall 2023,6,13.8,2.39,86.0,Yes,17,None
+STU00774,Business,Spring 2024,3,13.3,2.84,54.6,No,5,Merit
+STU00775,Biology,Fall 2024,5,17.2,2.91,84.1,No,38,Need-based
+STU00776,Computer Science,Fall 2023,3,7.9,1.96,67.3,No,19,Merit
+STU00777,Computer Science,Fall 2024,5,25.7,3.1,63.4,No,34,Athletic
+STU00778,Mathematics,Fall 2024,6,15.6,2.82,70.7,No,21,Need-based
+STU00779,Biology,Spring 2024,6,3.5,2.95,88.0,Yes,,Merit
+STU00780,Biology,Fall 2024,3,19.6,2.87,60.5,Yes,34,Department
+STU00781,Engineering,Spring 2024,3,17.8,3.37,89.1,Yes,21,Need-based
+STU00782,Business,Fall 2023,5,19.6,3.31,82.7,Yes,38,Athletic
+STU00783,Engineering,Spring 2024,6,16.4,2.62,63.1,No,32,None
+STU00784,Computer Science,Spring 2024,6,14.8,2.95,78.8,Yes,30,None
+STU00785,Biology,Spring 2024,6,14.7,2.9,75.3,No,27,None
+STU00786,Business,Fall 2023,6,21.4,3.15,77.3,No,13,Department
+STU00787,Mathematics,Fall 2023,4,11.3,2.78,75.0,Yes,35,Need-based
+STU00788,Engineering,Spring 2024,4,23.8,3.65,76.5,Yes,7,None
+STU00789,Business,Fall 2023,3,13.5,2.51,80.2,No,22,Athletic
+STU00790,Engineering,Fall 2023,4,13.8,3.01,70.0,No,11,Merit
+STU00791,Computer Science,Fall 2024,4,22.9,3.08,76.1,No,5,Department
+STU00792,Engineering,Fall 2023,5,18.9,2.62,67.5,No,46,None
+STU00793,Mathematics,Fall 2024,4,21.6,3.09,64.8,No,25,Athletic
+STU00794,Biology,Fall 2024,5,20.5,3.26,67.0,No,19,Athletic
+STU00795,Computer Science,Fall 2024,4,11.8,2.57,55.3,No,25,Department
+STU00796,Computer Science,Fall 2024,3,15.7,3.05,72.4,Yes,30,Department
+STU00797,Biology,Spring 2024,5,18.1,2.75,62.6,No,32,Department
+STU00798,Biology,Spring 2024,6,11.9,2.1,84.8,No,13,Department
+STU00799,Mathematics,Spring 2024,4,10.5,1.97,66.5,No,50,Need-based
+STU00800,Business,Fall 2023,3,22.0,3.21,87.8,Yes,,None
+STU00801,Mathematics,Spring 2024,4,3.1,1.67,87.1,No,20,Athletic
+STU00802,Engineering,Fall 2024,5,11.7,3.01,77.3,No,36,Need-based
+STU00803,Business,Fall 2023,4,14.4,2.51,72.7,No,5,Department
+STU00804,Biology,Fall 2023,6,18.7,3.65,80.8,Yes,15,Department
+STU00805,Business,Fall 2023,3,25.5,2.76,74.5,No,23,Need-based
+STU00806,Biology,Spring 2024,3,19.4,3.25,77.2,Yes,19,Department
+STU00807,Biology,Fall 2024,3,10.9,1.96,76.9,No,34,Department
+STU00808,Computer Science,Fall 2024,3,11.2,2.81,62.8,Yes,5,Need-based
+STU00809,Engineering,Fall 2024,4,23.2,2.7,83.3,No,30,Department
+STU00810,Mathematics,Spring 2024,6,7.0,2.35,71.6,No,33,Department
+STU00811,Computer Science,Fall 2023,4,17.0,3.34,57.4,Yes,28,Merit
+STU00812,Engineering,Fall 2024,6,14.2,2.85,97.6,Yes,6,None
+STU00813,Engineering,Fall 2023,4,22.3,2.91,86.3,No,32,Department
+STU00814,Biology,Fall 2023,3,18.4,2.93,73.9,No,20,Department
+STU00815,Business,Fall 2023,3,15.5,2.75,53.8,No,19,Department
+STU00816,Computer Science,Fall 2023,4,15.0,2.22,75.0,Yes,7,Department
+STU00817,Computer Science,Spring 2024,6,10.9,2.62,86.6,No,12,Department
+STU00818,Business,Fall 2024,4,20.9,3.01,67.8,Yes,10,Need-based
+STU00819,Computer Science,Fall 2024,3,17.5,3.36,100,No,26,Need-based
+STU00820,Mathematics,Fall 2023,4,14.2,3.15,82.2,Yes,38,Athletic
+STU00821,Mathematics,Fall 2024,4,15.3,2.96,65.7,Yes,33,Need-based
+STU00822,Computer Science,Spring 2024,3,10.8,2.22,79.1,No,32,Department
+STU00823,Biology,Fall 2024,6,14.8,3.45,90.2,Yes,5,Department
+STU00824,Engineering,Fall 2024,4,13.8,2.56,70.3,No,41,Need-based
+STU00825,Biology,Spring 2024,6,16.9,2.7,95.0,No,15,Need-based
+STU00826,Engineering,Spring 2024,3,12.7,2.92,59.8,Yes,13,Merit
+STU00827,Business,Fall 2023,3,1.0,1.94,68.0,No,40,Department
+STU00828,Biology,Spring 2024,4,16.3,3.54,81.0,No,44,None
+STU00829,Business,Fall 2024,4,18.8,3.13,96.5,No,24,Athletic
+STU00830,Business,Fall 2023,3,11.5,2.51,79.3,No,28,Athletic
+STU00831,Biology,Fall 2023,6,11.7,2.16,59.8,No,18,None
+STU00832,Biology,Spring 2024,4,21.9,3.48,74.2,No,18,Department
+STU00833,Computer Science,Fall 2023,3,14.3,2.75,94.7,No,21,Athletic
+STU00834,Mathematics,Fall 2024,6,18.1,3.51,81.6,Yes,40,Athletic
+STU00835,Biology,Spring 2024,6,17.1,3.14,90.2,No,12,Department
+STU00836,Mathematics,Fall 2023,4,26.0,2.74,97.3,No,36,Athletic
+STU00837,Engineering,Fall 2024,5,2.8,2.88,67.5,No,36,Department
+STU00838,Biology,Spring 2024,5,24.2,3.16,90.9,No,38,Department
+STU00839,Biology,Fall 2023,4,8.9,2.65,55.1,No,48,Department
+STU00840,Mathematics,Fall 2023,4,14.6,3.18,74.6,No,7,Merit
+STU00841,Engineering,Fall 2023,5,17.0,2.84,80.0,No,40,Department
+STU00842,Computer Science,Fall 2023,4,12.1,2.08,69.5,No,27,None
+STU00843,Business,Spring 2024,3,8.0,2.28,86.0,No,18,None
+STU00844,Mathematics,Fall 2023,6,17.2,2.82,69.4,No,35,Merit
+STU00845,Engineering,Fall 2023,5,21.5,3.1,82.9,Yes,35,Need-based
+STU00846,Biology,Fall 2023,4,21.2,3.24,77.6,No,14,Need-based
+STU00847,Engineering,Fall 2024,4,15.3,3.08,55.8,Yes,37,Merit
+STU00848,Computer Science,Fall 2023,3,14.7,2.67,62.6,No,8,Need-based
+STU00849,Business,Spring 2024,6,12.0,2.29,88.6,No,35,Department
+STU00850,Engineering,Fall 2023,4,22.7,3.01,83.9,No,34,Need-based
+STU00851,Biology,Fall 2023,6,21.6,2.88,56.5,No,17,Merit
+STU00852,Business,Fall 2024,4,9.3,3.06,90.9,No,27,Department
+STU00853,Business,Fall 2024,4,22.9,2.95,63.7,No,,None
+STU00854,Mathematics,Spring 2024,4,21.6,3.73,76.9,Yes,10,Need-based
+STU00855,Computer Science,Fall 2024,6,21.3,3.39,68.7,Yes,45,None
+STU00856,Engineering,Spring 2024,5,13.3,3.53,91.0,No,26,Athletic
+STU00857,Biology,Spring 2024,4,10.5,2.83,70.1,No,15,Merit
+STU00858,Mathematics,Fall 2024,3,15.6,3.25,67.6,No,18,Department
+STU00859,Engineering,Spring 2024,3,19.8,3.24,89.6,Yes,14,Athletic
+STU00860,Computer Science,Fall 2024,6,12.0,2.52,94.6,No,5,Merit
+STU00861,Computer Science,Fall 2024,3,10.8,2.79,85.5,No,9,Need-based
+STU00862,Business,Fall 2023,5,12.1,2.37,83.1,No,28,Athletic
+STU00863,Mathematics,Fall 2024,6,13.3,3.18,76.0,No,18,None
+STU00864,Biology,Fall 2023,5,1.7,2.26,69.7,No,31,Athletic
+STU00865,Engineering,Spring 2024,6,16.1,2.99,94.9,No,7,Merit
+STU00866,Engineering,Fall 2024,4,21.0,2.93,81.1,No,34,Need-based
+STU00867,Biology,Spring 2024,3,13.6,2.55,67.0,No,28,Department
+STU00868,Biology,Fall 2023,3,17.9,2.63,89.6,No,32,Merit
+STU00869,Engineering,Fall 2024,3,22.0,3.19,96.4,Yes,50,Need-based
+STU00870,Engineering,Fall 2024,5,20.7,2.85,89.6,No,,Merit
+STU00871,Mathematics,Fall 2024,4,13.0,2.47,72.9,No,32,Athletic
+STU00872,Computer Science,Spring 2024,4,20.1,3.13,80.3,Yes,13,None
+STU00873,Business,Fall 2023,4,3.0,2.29,67.3,Yes,14,Merit
+STU00874,Business,Fall 2024,4,14.0,3.28,79.6,Yes,27,Need-based
+STU00875,Mathematics,Fall 2024,5,16.4,3.12,80.8,No,45,None
+STU00876,Mathematics,Spring 2024,3,12.7,2.94,89.9,No,27,Department
+STU00877,Mathematics,Fall 2024,3,25.4,2.38,74.6,No,,None
+STU00878,Engineering,Fall 2023,6,13.6,3.13,84.7,Yes,17,Merit
+STU00879,Biology,Spring 2024,6,7.0,2.28,69.4,No,26,Need-based
+STU00880,Business,Spring 2024,5,18.0,2.97,91.6,No,,Department
+STU00881,Biology,Spring 2024,5,9.9,2.46,86.0,No,25,Need-based
+STU00882,Mathematics,Fall 2023,6,15.9,3.01,85.8,No,28,Department
+STU00883,Business,Fall 2023,4,1.0,2.12,75.4,No,5,None
+STU00884,Business,Fall 2024,3,15.0,3.08,74.8,Yes,19,Merit
+STU00885,Business,Fall 2024,3,21.0,3.68,86.4,No,28,Athletic
+STU00886,Business,Fall 2024,4,18.7,3.36,96.6,No,,Need-based
+STU00887,Engineering,Spring 2024,5,7.0,2.4,62.0,No,18,Merit
+STU00888,Computer Science,Fall 2023,4,23.3,3.63,88.9,No,33,Department
+STU00889,Biology,Spring 2024,5,23.1,3.39,93.4,Yes,38,Need-based
+STU00890,Computer Science,Fall 2023,6,7.6,2.49,80.0,No,25,Need-based
+STU00891,Biology,Spring 2024,6,8.3,2.22,60.4,No,31,Department
+STU00892,Computer Science,Spring 2024,6,15.9,2.48,74.9,Yes,28,Need-based
+STU00893,Business,Spring 2024,5,4.3,1.31,71.5,No,44,Department
+STU00894,Business,Spring 2024,4,10.9,2.58,89.1,No,19,Athletic
+STU00895,Computer Science,Fall 2023,6,16.0,2.79,87.4,No,16,Department
+STU00896,Business,Fall 2023,4,18.7,2.93,88.9,Yes,,None
+STU00897,Engineering,Fall 2023,4,11.4,1.92,61.7,No,35,None
+STU00898,Business,Fall 2024,3,10.6,2.92,70.9,No,,Need-based
+STU00899,Computer Science,Spring 2024,3,15.1,3.26,90.5,No,15,None
+STU00900,Business,Fall 2023,3,27.0,2.8,73.6,Yes,25,Need-based
+STU00901,Engineering,Fall 2023,3,21.0,3.5,78.2,Yes,40,None
+STU00902,Computer Science,Spring 2024,3,14.5,2.79,84.6,No,21,Merit
+STU00903,Computer Science,Spring 2024,3,28.9,3.56,83.0,Yes,25,Need-based
+STU00904,Computer Science,Fall 2024,4,17.6,2.91,95.6,No,17,Merit
+STU00905,Business,Fall 2023,3,14.9,3.16,85.6,No,19,Need-based
+STU00906,Biology,Spring 2024,4,20.5,3.01,75.6,No,24,None
+STU00907,Computer Science,Fall 2023,5,13.7,3.25,65.1,No,26,None
+STU00908,Computer Science,Fall 2023,5,12.6,3.15,68.7,Yes,37,Athletic
+STU00909,Business,Spring 2024,3,8.1,2.37,73.8,No,45,Need-based
+STU00910,Engineering,Spring 2024,3,13.8,2.37,55.8,Yes,37,Need-based
+STU00911,Engineering,Spring 2024,3,22.1,3.09,75.5,No,39,Need-based
+STU00912,Engineering,Fall 2023,5,4.7,2.17,59.8,Yes,5,Department
+STU00913,Computer Science,Spring 2024,5,7.6,2.75,100,Yes,12,Athletic
+STU00914,Business,Fall 2023,6,12.8,2.66,61.7,No,38,Department
+STU00915,Biology,Fall 2024,3,16.1,3.37,82.2,Yes,19,Athletic
+STU00916,Biology,Fall 2024,4,1.3,1.81,77.8,No,45,Department
+STU00917,Computer Science,Fall 2024,3,21.2,3.39,84.4,Yes,25,Athletic
+STU00918,Mathematics,Spring 2024,6,17.1,2.86,76.9,No,9,Athletic
+STU00919,Biology,Spring 2024,6,21.7,3.57,80.2,No,45,None
+STU00920,Mathematics,Fall 2024,3,10.9,2.02,100,No,,Merit
+STU00921,Biology,Fall 2024,3,6.4,2.71,82.3,No,19,Merit
+STU00922,Computer Science,Spring 2024,6,17.5,2.71,86.2,No,8,Department
+STU00923,Mathematics,Fall 2024,5,30.0,3.1,100,No,27,Need-based
+STU00924,Business,Spring 2024,3,21.9,3.47,58.3,No,40,Need-based
+STU00925,Biology,Fall 2024,6,12.9,2.81,65.8,No,12,Athletic
+STU00926,Mathematics,Spring 2024,6,13.8,3.32,87.5,Yes,9,Merit
+STU00927,Biology,Fall 2024,5,11.6,2.06,56.8,No,14,Athletic
+STU00928,Biology,Fall 2023,4,7.8,2.93,70.3,No,44,Merit
+STU00929,Engineering,Fall 2024,5,12.4,2.84,86.7,Yes,46,Need-based
+STU00930,Computer Science,Fall 2023,3,13.0,2.69,82.8,No,11,Need-based
+STU00931,Engineering,Spring 2024,6,13.7,2.96,68.3,Yes,42,Athletic
+STU00932,Business,Spring 2024,6,15.4,2.58,65.0,No,15,Merit
+STU00933,Business,Fall 2023,3,13.9,2.37,79.7,Yes,29,Need-based
+STU00934,Biology,Spring 2024,3,9.4,2.83,67.5,No,9,Department
+STU00935,Computer Science,Spring 2024,3,13.0,2.57,87.0,No,33,Merit
+STU00936,Business,Spring 2024,5,23.3,3.16,81.2,No,24,Merit
+STU00937,Business,Fall 2024,3,10.8,2.75,54.3,Yes,11,Need-based
+STU00938,Biology,Fall 2023,3,12.9,2.56,92.8,No,15,None
+STU00939,Mathematics,Fall 2024,4,18.6,3.62,90.6,No,44,Athletic
+STU00940,Biology,Fall 2023,5,3.5,2.13,73.9,No,19,Need-based
+STU00941,Mathematics,Fall 2023,4,21.4,2.96,73.6,No,19,Department
+STU00942,Engineering,Spring 2024,3,11.2,2.78,87.8,No,5,Department
+STU00943,Computer Science,Spring 2024,3,13.4,2.76,68.1,Yes,5,Athletic
+STU00944,Computer Science,Fall 2023,5,16.8,2.82,70.0,No,36,Athletic
+STU00945,Computer Science,Fall 2023,5,20.1,2.97,63.1,No,22,Merit
+STU00946,Biology,Fall 2023,6,6.5,2.49,98.2,No,26,Department
+STU00947,Biology,Fall 2024,4,10.0,2.21,76.4,No,57,Athletic
+STU00948,Business,Spring 2024,3,10.1,2.64,71.9,No,,Athletic
+STU00949,Mathematics,Fall 2024,4,19.9,2.49,63.8,No,12,Department
+STU00950,Biology,Fall 2024,6,25.5,3.59,99.8,No,25,None
+STU00951,Business,Fall 2023,6,21.6,3.02,64.6,Yes,29,Need-based
+STU00952,Business,Spring 2024,5,18.0,2.75,74.7,No,55,Merit
+STU00953,Engineering,Fall 2023,6,7.8,2.47,60.4,Yes,28,Department
+STU00954,Engineering,Fall 2024,5,13.3,2.58,71.4,Yes,21,Need-based
+STU00955,Mathematics,Spring 2024,6,8.4,3.0,77.1,Yes,10,None
+STU00956,Engineering,Fall 2024,4,1.8,2.63,72.6,Yes,37,Merit
+STU00957,Business,Fall 2023,6,14.6,2.65,63.1,No,26,Department
+STU00958,Biology,Fall 2023,3,22.6,3.07,76.7,No,5,None
+STU00959,Computer Science,Fall 2024,6,17.6,2.91,85.2,Yes,31,Department
+STU00960,Biology,Fall 2024,5,9.6,2.06,62.2,No,33,Athletic
+STU00961,Computer Science,Fall 2023,6,24.6,2.74,73.4,No,39,None
+STU00962,Engineering,Spring 2024,6,3.0,2.82,70.6,Yes,24,None
+STU00963,Mathematics,Fall 2023,6,15.6,2.33,71.4,No,21,Department
+STU00964,Business,Spring 2024,6,20.9,3.27,95.2,No,18,Need-based
+STU00965,Mathematics,Fall 2023,5,18.8,3.34,80.0,No,8,Merit
+STU00966,Business,Fall 2024,6,6.1,2.53,65.4,No,25,None
+STU00967,Biology,Spring 2024,3,17.2,2.99,94.1,No,8,Need-based
+STU00968,Business,Fall 2024,5,24.0,3.03,80.5,No,32,None
+STU00969,Business,Fall 2024,4,8.1,2.35,72.4,Yes,21,Department
+STU00970,Mathematics,Fall 2024,5,15.4,3.19,76.5,Yes,47,Need-based
+STU00971,Computer Science,Fall 2024,4,31.1,3.32,54.4,No,21,Need-based
+STU00972,Biology,Fall 2023,3,10.9,2.54,77.6,No,12,Need-based
+STU00973,Business,Fall 2024,4,14.0,2.77,62.9,No,17,Athletic
+STU00974,Mathematics,Spring 2024,5,14.5,3.04,72.5,No,5,None
+STU00975,Biology,Fall 2023,3,18.2,2.91,86.2,No,15,Need-based
+STU00976,Engineering,Fall 2023,5,21.8,3.27,94.0,Yes,25,Athletic
+STU00977,Mathematics,Spring 2024,3,12.4,2.83,64.8,Yes,19,Need-based
+STU00978,Mathematics,Spring 2024,6,12.4,2.5,65.6,No,6,Department
+STU00979,Computer Science,Spring 2024,5,7.8,2.18,82.8,No,23,Athletic
+STU00980,Business,Fall 2024,5,12.7,2.48,86.0,No,35,Athletic
+STU00981,Business,Spring 2024,5,18.2,3.45,75.3,No,28,None
+STU00982,Engineering,Fall 2024,5,16.5,3.08,74.4,Yes,28,Merit
+STU00983,Engineering,Fall 2023,5,9.9,2.46,85.1,Yes,,Athletic
+STU00984,Biology,Fall 2023,5,7.0,2.23,73.8,No,27,None
+STU00985,Mathematics,Spring 2024,5,11.3,2.79,73.7,Yes,9,Merit
+STU00986,Mathematics,Fall 2024,4,8.8,3.09,82.8,No,29,Department
+STU00987,Mathematics,Fall 2023,6,10.0,3.21,100,Yes,25,Merit
+STU00988,Mathematics,Fall 2023,3,10.1,2.41,74.1,No,28,Athletic
+STU00989,Mathematics,Fall 2024,6,13.3,3.09,92.8,Yes,40,None
+STU00990,Business,Spring 2024,5,9.8,2.41,73.9,No,10,None
+STU00991,Biology,Fall 2024,6,14.4,2.46,77.3,No,41,Need-based
+STU00992,Engineering,Fall 2023,3,18.1,3.17,68.8,Yes,5,Need-based
+STU00993,Business,Fall 2023,4,5.1,2.21,67.1,No,,Athletic
+STU00994,Mathematics,Fall 2024,3,17.4,2.87,72.0,No,47,Athletic
+STU00995,Mathematics,Fall 2024,6,12.3,2.85,83.6,Yes,53,Need-based
+STU00996,Biology,Spring 2024,4,24.4,3.62,94.7,No,,Athletic
+STU00997,Business,Fall 2024,3,13.7,2.56,67.6,No,27,Athletic
+STU00998,Mathematics,Fall 2023,4,8.5,2.53,82.3,No,25,Department
+STU00999,Business,Fall 2024,6,15.7,2.8,79.0,No,32,Need-based
+STU01000,Engineering,Fall 2023,4,24.6,3.01,79.2,No,32,Merit
+STU01001,Engineering,Fall 2024,6,24.3,3.2,82.0,No,40,None
+STU01002,Mathematics,Spring 2024,3,20.9,3.73,60.9,No,13,Department
+STU01003,Business,Fall 2024,6,19.4,2.93,72.1,No,14,Department
+STU01004,Computer Science,Fall 2023,4,10.6,2.46,81.0,No,32,Need-based
+STU01005,Engineering,Fall 2024,5,23.0,2.59,79.9,No,17,None
+STU01006,Computer Science,Spring 2024,4,15.0,2.97,72.1,Yes,33,None
+STU01007,Mathematics,Spring 2024,3,8.7,2.68,73.8,No,43,Department
+STU01008,Mathematics,Fall 2024,3,23.5,3.59,100,No,33,Department
+STU01009,Biology,Fall 2024,3,18.1,3.29,100,Yes,33,None
+STU01010,Mathematics,Spring 2024,4,6.7,1.79,56.9,No,11,Athletic
+STU01011,Mathematics,Fall 2023,4,15.9,2.95,96.5,No,32,Need-based
+STU01012,Computer Science,Fall 2024,5,14.8,2.13,91.9,Yes,17,Need-based
+STU01013,Business,Spring 2024,4,16.9,2.53,73.2,No,5,Athletic
+STU01014,Biology,Fall 2024,6,15.3,2.77,78.4,No,31,Athletic
+STU01015,Biology,Fall 2023,5,13.2,2.18,80.4,No,31,Need-based
+STU01016,Computer Science,Fall 2024,5,25.9,2.97,74.7,Yes,45,Athletic
+STU01017,Business,Fall 2023,5,15.5,2.67,71.3,No,16,Department
+STU01018,Engineering,Spring 2024,3,10.7,2.48,93.0,No,18,Merit
+STU01019,Biology,Fall 2023,5,12.3,2.97,70.1,No,13,Merit
+STU01020,Business,Fall 2024,4,18.7,2.61,88.9,No,6,Merit
+STU01021,Engineering,Fall 2024,5,11.1,2.47,66.8,Yes,24,Athletic
+STU01022,Engineering,Fall 2023,5,1.4,2.44,84.3,No,19,Athletic
+STU01023,Mathematics,Spring 2024,4,13.6,3.07,85.5,Yes,25,Department
+STU01024,Engineering,Spring 2024,3,15.5,3.27,72.7,Yes,30,Athletic
+STU01025,Engineering,Spring 2024,6,21.4,3.18,67.3,Yes,20,None
+STU01026,Business,Spring 2024,5,20.0,3.03,100,Yes,18,Athletic
+STU01027,Computer Science,Fall 2024,3,12.8,2.64,90.1,Yes,10,Merit
+STU01028,Biology,Spring 2024,4,18.5,3.15,81.0,No,15,Athletic
+STU01029,Business,Spring 2024,6,10.4,3.18,80.9,Yes,20,None
+STU01030,Mathematics,Spring 2024,4,26.8,3.17,84.2,No,23,None
+STU01031,Biology,Fall 2024,4,21.7,3.03,77.9,Yes,16,Merit
+STU01032,Mathematics,Spring 2024,5,5.3,2.46,63.0,No,26,Department
+STU01033,Biology,Fall 2023,6,7.7,2.67,82.9,No,22,None
+STU01034,Biology,Fall 2023,3,15.9,2.86,71.3,Yes,5,Merit
+STU01035,Biology,Spring 2024,6,16.3,3.05,69.3,No,28,None
+STU01036,Business,Spring 2024,3,26.1,3.49,67.7,Yes,31,Athletic
+STU01037,Biology,Spring 2024,4,10.3,2.75,74.2,No,30,Need-based
+STU01038,Engineering,Fall 2023,6,16.9,3.01,68.3,No,28,Department
+STU01039,Mathematics,Fall 2023,3,4.6,1.97,93.4,No,37,None
+STU01040,Computer Science,Fall 2024,6,12.4,2.43,64.8,No,15,Department
+STU01041,Business,Fall 2024,6,12.0,2.4,72.2,No,,None
+STU01042,Biology,Fall 2023,4,15.6,2.83,77.4,No,38,Need-based
+STU01043,Biology,Fall 2024,6,18.6,2.98,55.3,Yes,8,Merit
+STU01044,Biology,Spring 2024,5,1.3,2.16,100,No,,Merit
+STU01045,Mathematics,Spring 2024,4,24.9,3.66,49.5,Yes,29,Athletic
+STU01046,Biology,Fall 2024,6,3.9,1.32,73.1,No,34,Athletic
+STU01047,Biology,Fall 2024,4,11.5,2.5,94.1,No,21,None
+STU01048,Computer Science,Fall 2024,4,23.5,3.5,95.1,No,5,Need-based
+STU01049,Computer Science,Spring 2024,4,17.3,3.05,84.9,No,36,Merit
+STU01050,Mathematics,Spring 2024,3,13.3,2.34,72.1,No,,Merit
+STU01051,Business,Spring 2024,4,16.7,3.03,96.9,Yes,48,Department
+STU01052,Business,Fall 2024,6,18.4,2.32,87.6,No,24,Department
+STU01053,Mathematics,Spring 2024,3,20.1,2.78,68.4,No,19,None
+STU01054,Biology,Spring 2024,4,13.6,2.4,57.0,No,28,Need-based
+STU01055,Mathematics,Spring 2024,5,24.3,3.35,74.7,No,25,Merit
+STU01056,Business,Spring 2024,6,21.9,3.1,92.9,No,7,Need-based
+STU01057,Computer Science,Spring 2024,6,11.0,1.89,78.6,No,13,Need-based
+STU01058,Engineering,Fall 2024,4,15.0,2.35,77.8,No,20,None
+STU01059,Mathematics,Fall 2023,6,7.3,2.21,87.7,No,28,Merit
+STU01060,Computer Science,Spring 2024,6,26.4,3.21,71.8,Yes,20,None
+STU01061,Business,Fall 2024,5,14.9,3.01,65.7,No,31,Merit
+STU01062,Business,Spring 2024,4,12.0,2.79,91.2,No,9,Athletic
+STU01063,Mathematics,Fall 2023,6,17.8,3.18,80.9,No,15,None
+STU01064,Biology,Fall 2024,4,18.2,2.85,59.7,Yes,5,Athletic
+STU01065,Business,Fall 2023,5,10.4,2.52,73.9,No,14,None
+STU01066,Mathematics,Fall 2023,5,16.3,2.68,77.4,No,25,None
+STU01067,Computer Science,Fall 2024,6,14.4,2.84,66.8,Yes,29,None
+STU01068,Mathematics,Spring 2024,3,21.7,3.08,55.2,No,31,Department
+STU01069,Biology,Fall 2024,4,15.2,2.68,65.2,No,22,Merit
+STU01070,Mathematics,Fall 2024,4,5.5,2.48,94.2,Yes,39,None
+STU01071,Mathematics,Fall 2023,5,21.9,3.05,93.8,No,25,Need-based
+STU01072,Computer Science,Fall 2024,4,15.7,2.74,61.7,Yes,33,Athletic
+STU01073,Business,Spring 2024,6,14.6,2.23,69.5,Yes,12,Department
+STU01074,Computer Science,Spring 2024,3,8.5,2.42,78.8,No,19,None
+STU01075,Biology,Fall 2023,3,19.3,2.89,90.9,No,30,Athletic
+STU01076,Mathematics,Spring 2024,3,6.8,2.14,87.5,No,31,Athletic
+STU01077,Biology,Fall 2024,5,16.8,2.45,59.7,Yes,5,Merit
+STU01078,Engineering,Spring 2024,3,30.8,3.78,50.2,Yes,13,Department
+STU01079,Mathematics,Fall 2023,6,15.7,2.9,58.2,No,11,Merit
+STU01080,Biology,Spring 2024,3,22.2,3.21,57.1,No,31,Need-based
+STU01081,Engineering,Spring 2024,5,14.1,2.88,82.3,No,14,Department
+STU01082,Biology,Spring 2024,6,18.7,3.62,66.5,Yes,36,Merit
+STU01083,Computer Science,Fall 2023,5,18.9,3.22,92.7,No,25,None
+STU01084,Business,Fall 2024,6,15.7,2.64,74.4,No,29,Need-based
+STU01085,Computer Science,Spring 2024,5,20.6,3.33,87.8,No,25,None
+STU01086,Computer Science,Fall 2024,6,13.5,2.55,76.1,No,26,Athletic
+STU01087,Mathematics,Fall 2024,3,13.3,2.33,82.7,No,,Merit
+STU01088,Business,Fall 2023,3,15.1,2.54,81.6,No,5,Need-based
+STU01089,Engineering,Spring 2024,6,11.3,3.02,96.3,No,15,Athletic
+STU01090,Biology,Fall 2023,5,13.9,2.39,89.0,No,25,Department
+STU01091,Engineering,Fall 2023,5,21.3,3.19,86.2,No,28,Department
+STU01092,Computer Science,Fall 2023,6,21.9,3.1,75.9,Yes,10,Athletic
+STU01093,Computer Science,Fall 2023,3,17.7,2.41,74.2,No,29,None
+STU01094,Computer Science,Fall 2023,6,7.1,1.71,70.5,No,15,Athletic
+STU01095,Biology,Spring 2024,3,11.3,2.6,56.0,No,16,None
+STU01096,Biology,Fall 2023,4,14.1,2.52,69.4,No,26,Merit
+STU01097,Computer Science,Spring 2024,4,22.1,3.25,91.4,No,27,Merit
+STU01098,Mathematics,Fall 2024,6,17.7,2.75,73.7,No,,None
+STU01099,Computer Science,Fall 2023,5,15.8,3.37,50.3,Yes,12,Department
+STU01100,Business,Spring 2024,6,12.4,2.4,84.0,No,5,Department
+STU01101,Engineering,Fall 2023,4,18.2,2.81,84.1,No,39,Merit
+STU01102,Computer Science,Fall 2024,6,18.2,2.69,78.6,No,5,Athletic
+STU01103,Computer Science,Fall 2024,4,20.1,3.17,90.9,Yes,30,Merit
+STU01104,Engineering,Spring 2024,4,22.9,3.41,84.5,Yes,33,Athletic
+STU01105,Biology,Spring 2024,5,10.2,2.15,66.2,No,20,Need-based
+STU01106,Mathematics,Fall 2023,6,22.1,3.05,99.4,No,31,Need-based
+STU01107,Biology,Fall 2024,3,17.5,3.3,100,Yes,31,None
+STU01108,Engineering,Spring 2024,4,20.5,3.47,75.0,No,,Department
+STU01109,Engineering,Fall 2023,6,10.9,2.08,60.6,Yes,18,Need-based
+STU01110,Engineering,Fall 2023,5,23.0,2.98,75.4,No,30,Merit
+STU01111,Engineering,Fall 2024,5,18.4,2.74,60.3,No,32,Athletic
+STU01112,Biology,Fall 2023,5,11.9,2.33,73.8,No,45,Merit
+STU01113,Engineering,Spring 2024,5,12.6,2.99,99.3,No,36,Need-based
+STU01114,Mathematics,Spring 2024,4,17.5,2.69,74.1,No,33,Department
+STU01115,Business,Spring 2024,5,16.9,2.72,100,Yes,5,None
+STU01116,Biology,Spring 2024,5,7.9,2.35,74.9,Yes,,Need-based
+STU01117,Engineering,Fall 2023,6,16.3,2.72,56.4,No,16,Merit
+STU01118,Computer Science,Fall 2023,5,12.6,2.89,89.5,Yes,5,Merit
+STU01119,Business,Spring 2024,6,24.3,2.85,60.1,Yes,31,None
+STU01120,Biology,Spring 2024,4,16.6,2.04,100,No,23,Department
+STU01121,Engineering,Fall 2024,4,19.0,3.3,78.9,Yes,14,Merit
+STU01122,Biology,Fall 2023,3,12.7,2.58,72.9,No,26,Athletic
+STU01123,Engineering,Fall 2024,6,18.0,3.05,73.3,No,31,None
+STU01124,Business,Fall 2023,6,20.1,3.04,62.1,No,23,Department
+STU01125,Biology,Fall 2024,6,11.7,2.52,82.9,No,23,Merit
+STU01126,Biology,Fall 2024,5,20.9,3.07,78.9,Yes,27,Need-based
+STU01127,Mathematics,Fall 2023,5,22.8,2.89,73.6,No,24,Athletic
+STU01128,Biology,Fall 2023,6,16.8,2.38,36.7,No,34,None
+STU01129,Mathematics,Fall 2024,6,9.8,2.5,80.0,No,21,Department
+STU01130,Mathematics,Spring 2024,3,26.0,3.0,57.8,No,32,Merit
+STU01131,Mathematics,Fall 2023,5,15.6,2.69,89.1,No,21,Need-based
+STU01132,Mathematics,Spring 2024,3,11.6,1.95,67.1,No,39,None
+STU01133,Computer Science,Fall 2023,4,12.4,2.94,62.3,Yes,30,None
+STU01134,Business,Fall 2024,4,14.9,3.13,51.0,No,5,Merit
+STU01135,Mathematics,Spring 2024,6,19.7,3.01,84.2,No,14,Need-based
+STU01136,Business,Fall 2023,5,10.3,2.14,95.2,No,15,Merit
+STU01137,Biology,Spring 2024,4,23.1,3.19,60.3,Yes,7,Need-based
+STU01138,Mathematics,Fall 2023,4,21.6,3.49,86.4,Yes,,Department
+STU01139,Mathematics,Spring 2024,6,21.1,2.45,95.4,No,,Need-based
+STU01140,Biology,Fall 2023,4,12.2,2.21,96.1,No,21,Department
+STU01141,Biology,Fall 2023,6,14.0,2.55,65.3,No,29,Merit
+STU01142,Computer Science,Spring 2024,3,11.2,2.18,67.6,No,,Merit
+STU01143,Business,Fall 2024,4,23.7,3.62,92.0,Yes,16,Merit
+STU01144,Business,Fall 2023,6,19.6,3.68,80.6,Yes,41,None
+STU01145,Business,Fall 2024,5,15.4,2.12,76.6,No,15,None
+STU01146,Computer Science,Spring 2024,3,26.0,3.18,60.3,No,46,Merit
+STU01147,Mathematics,Fall 2024,5,9.2,2.13,72.7,No,25,Merit
+STU01148,Biology,Fall 2023,3,23.0,3.2,82.1,Yes,30,Athletic
+STU01149,Computer Science,Fall 2023,5,22.0,3.34,63.9,No,31,Athletic
+STU01150,Mathematics,Fall 2024,5,9.3,2.58,92.4,No,38,Athletic
+STU01151,Business,Spring 2024,3,4.9,2.36,70.8,No,31,Athletic
+STU01152,Engineering,Fall 2024,4,23.5,2.34,76.4,No,5,None
+STU01153,Engineering,Fall 2023,6,11.9,2.47,82.0,Yes,15,Merit
+STU01154,Mathematics,Fall 2023,4,18.5,2.57,79.2,No,17,Department
+STU01155,Engineering,Fall 2024,4,15.1,2.63,73.9,Yes,23,None
+STU01156,Business,Fall 2023,6,18.3,2.81,87.1,No,5,Need-based
+STU01157,Engineering,Fall 2024,4,16.7,2.76,95.2,No,20,Athletic
+STU01158,Engineering,Fall 2023,6,12.0,2.59,59.9,No,29,Department
+STU01159,Computer Science,Spring 2024,6,17.9,2.6,91.8,No,28,Athletic
+STU01160,Business,Spring 2024,5,19.1,3.07,80.8,No,19,None
+STU01161,Computer Science,Spring 2024,3,17.1,2.7,93.3,No,29,Department
+STU01162,Engineering,Fall 2024,6,21.9,3.16,80.4,No,37,Department
+STU01163,Biology,Spring 2024,4,19.9,2.8,88.1,No,39,Need-based
+STU01164,Business,Fall 2023,3,9.8,2.98,62.5,No,56,Merit
+STU01165,Computer Science,Fall 2023,4,13.6,2.63,86.7,No,25,Merit
+STU01166,Engineering,Spring 2024,5,14.7,2.8,89.8,No,5,Need-based
+STU01167,Computer Science,Fall 2023,6,19.0,2.81,79.9,No,26,Merit
+STU01168,Business,Fall 2024,6,21.8,3.01,84.3,No,23,Merit
+STU01169,Mathematics,Fall 2024,3,14.3,2.64,77.5,No,23,Merit
+STU01170,Biology,Spring 2024,6,4.9,2.7,80.5,No,23,Department
+STU01171,Engineering,Fall 2024,4,2.5,2.11,86.7,No,24,None
+STU01172,Computer Science,Fall 2024,6,14.7,2.72,94.0,No,19,Merit
+STU01173,Biology,Fall 2024,6,11.1,2.84,77.3,No,,Athletic
+STU01174,Business,Spring 2024,5,14.6,2.57,90.8,No,,Need-based
+STU01175,Biology,Fall 2023,6,14.7,3.2,85.7,No,32,Need-based
+STU01176,Mathematics,Spring 2024,5,5.5,1.49,51.8,No,14,Merit
+STU01177,Engineering,Fall 2024,5,26.3,2.99,91.8,No,13,Athletic
+STU01178,Biology,Fall 2024,6,14.3,2.6,76.4,No,22,Need-based
+STU01179,Computer Science,Spring 2024,5,17.7,2.74,90.1,No,24,Merit
+STU01180,Business,Spring 2024,6,19.2,2.93,88.1,Yes,33,Merit
+STU01181,Biology,Fall 2023,4,12.4,2.38,70.4,No,49,Athletic
+STU01182,Computer Science,Fall 2023,4,15.9,2.52,90.8,Yes,22,Merit
+STU01183,Business,Fall 2023,5,18.0,2.79,65.1,No,57,Need-based
+STU01184,Computer Science,Spring 2024,4,9.5,2.81,74.4,Yes,37,Merit
+STU01185,Computer Science,Spring 2024,6,13.2,2.52,59.4,Yes,28,Merit
+STU01186,Engineering,Fall 2023,5,14.5,2.27,84.1,No,35,Merit
+STU01187,Mathematics,Fall 2023,4,11.5,2.82,87.8,No,37,Merit
+STU01188,Biology,Fall 2024,6,17.7,3.1,73.5,No,15,None
+STU01189,Engineering,Spring 2024,4,23.2,3.55,80.1,Yes,29,Department
+STU01190,Mathematics,Fall 2024,5,15.5,2.63,69.8,Yes,30,None
+STU01191,Engineering,Fall 2023,3,16.6,2.62,73.9,No,24,Department
+STU01192,Business,Spring 2024,6,10.1,2.85,81.6,No,30,Athletic
+STU01193,Business,Fall 2024,4,16.8,2.9,80.2,No,21,None
+STU01194,Engineering,Fall 2024,3,20.3,2.92,66.1,No,17,None
+STU01195,Business,Fall 2023,6,20.0,2.91,70.1,No,5,Merit
+STU01196,Biology,Fall 2023,4,18.2,2.49,94.5,No,19,None
+STU01197,Mathematics,Fall 2023,5,8.9,2.6,72.1,No,,None
+STU01198,Biology,Fall 2024,5,19.4,3.13,70.2,Yes,,Department
+STU01199,Engineering,Fall 2023,5,17.6,2.83,100,Yes,18,Merit
+STU01200,Computer Science,Spring 2024,3,16.5,3.27,76.6,No,19,Need-based
+STU01201,Computer Science,Fall 2023,4,10.5,2.86,72.3,No,23,Merit
+STU01202,Mathematics,Fall 2024,3,16.7,2.36,98.9,No,5,Athletic
+STU01203,Business,Fall 2024,3,6.8,2.41,39.5,No,38,Department
+STU01204,Biology,Fall 2024,3,10.7,2.85,77.6,Yes,38,Department
+STU01205,Mathematics,Spring 2024,5,8.2,2.64,81.8,No,24,Athletic
+STU01206,Engineering,Fall 2023,6,10.7,2.98,70.6,No,5,Merit
+STU01207,Mathematics,Spring 2024,3,13.0,3.37,59.0,No,22,None
+STU01208,Engineering,Fall 2024,3,10.9,2.95,65.4,Yes,,None
+STU01209,Biology,Spring 2024,3,26.2,2.44,100,No,36,None
+STU01210,Mathematics,Fall 2023,3,17.1,2.29,86.1,No,24,Athletic
+STU01211,Biology,Spring 2024,3,21.1,2.99,65.2,No,40,None
+STU01212,Computer Science,Spring 2024,6,16.0,2.25,93.2,No,28,Department
+STU01213,Computer Science,Spring 2024,4,8.7,2.69,70.9,Yes,31,Merit
+STU01214,Business,Fall 2024,3,14.6,2.28,61.5,No,28,Merit
+STU01215,Computer Science,Fall 2023,6,14.4,2.56,83.2,No,15,Athletic
+STU01216,Computer Science,Spring 2024,4,21.5,3.3,86.4,No,9,Department
+STU01217,Biology,Spring 2024,5,12.3,2.87,52.0,Yes,,Merit
+STU01218,Engineering,Fall 2023,4,14.0,2.25,81.8,No,,Need-based
+STU01219,Business,Fall 2024,6,26.4,3.16,98.9,No,21,Merit
+STU01220,Biology,Spring 2024,6,21.1,2.99,69.9,No,12,Athletic
+STU01221,Computer Science,Spring 2024,5,6.6,2.3,79.9,Yes,28,Department
+STU01222,Biology,Spring 2024,3,16.1,2.7,67.7,Yes,31,None
+STU01223,Biology,Spring 2024,4,7.9,2.65,71.4,Yes,14,None
+STU01224,Mathematics,Spring 2024,3,14.7,2.99,80.4,Yes,45,Merit
+STU01225,Mathematics,Fall 2024,5,11.8,2.49,60.1,Yes,19,Need-based
+STU01226,Computer Science,Fall 2023,3,19.5,3.24,83.5,Yes,34,Need-based
+STU01227,Engineering,Spring 2024,4,2.8,2.6,75.8,No,47,Merit
+STU01228,Engineering,Fall 2024,6,14.4,2.43,76.7,Yes,27,None
+STU01229,Biology,Fall 2024,3,13.0,2.59,87.5,No,14,Department
+STU01230,Biology,Fall 2024,5,9.1,2.18,71.2,No,13,Merit
+STU01231,Business,Fall 2023,4,21.1,2.87,85.0,No,30,Department
+STU01232,Engineering,Fall 2023,4,11.4,2.49,87.6,No,25,Department
+STU01233,Engineering,Fall 2024,4,13.2,2.33,83.1,No,40,None
+STU01234,Business,Spring 2024,3,11.6,2.39,90.9,No,22,Athletic
+STU01235,Biology,Fall 2024,4,20.9,2.99,61.1,No,29,Merit
+STU01236,Mathematics,Fall 2024,3,11.9,2.43,79.7,No,32,Department
+STU01237,Business,Fall 2024,3,8.6,2.29,78.8,No,19,None
+STU01238,Business,Spring 2024,5,21.3,3.27,76.2,Yes,22,Department
+STU01239,Business,Fall 2024,4,9.6,3.03,69.0,No,21,Department
+STU01240,Computer Science,Spring 2024,4,11.2,3.19,100,Yes,13,Merit
+STU01241,Engineering,Fall 2023,5,10.7,2.64,84.7,No,20,Merit
+STU01242,Business,Fall 2024,3,15.4,2.74,72.6,No,22,Department
+STU01243,Business,Fall 2023,4,10.2,2.9,95.6,No,35,Athletic
+STU01244,Computer Science,Fall 2024,6,14.8,2.86,89.1,No,,Need-based
+STU01245,Business,Spring 2024,4,15.1,3.62,71.6,No,,Athletic
+STU01246,Biology,Spring 2024,3,21.1,2.77,72.3,No,30,Need-based
+STU01247,Business,Fall 2024,6,11.3,2.57,96.3,No,,Merit
+STU01248,Computer Science,Fall 2023,4,20.9,2.36,77.5,No,12,Need-based
+STU01249,Business,Fall 2023,3,3.2,2.29,72.8,No,,Athletic
+STU01250,Biology,Fall 2023,5,14.2,1.99,78.2,No,12,Need-based
+STU01251,Business,Fall 2024,3,15.8,3.13,84.5,Yes,40,Department
+STU01252,Business,Fall 2023,4,17.4,3.02,100,No,43,Need-based
+STU01253,Mathematics,Fall 2023,4,25.7,2.85,89.5,No,45,Need-based
+STU01254,Engineering,Fall 2024,5,25.3,3.14,95.6,Yes,27,Need-based
+STU01255,Mathematics,Fall 2024,3,2.6,2.3,68.4,No,26,Athletic
+STU01256,Mathematics,Fall 2023,4,10.7,2.71,100,No,9,Need-based
+STU01257,Biology,Fall 2024,5,12.1,3.52,86.1,Yes,29,Need-based
+STU01258,Engineering,Spring 2024,3,18.7,3.34,85.4,No,26,Need-based
+STU01259,Mathematics,Spring 2024,3,15.4,2.54,85.8,Yes,36,Athletic
+STU01260,Computer Science,Fall 2023,5,18.7,2.38,64.1,No,30,Athletic
+STU01261,Biology,Fall 2023,3,7.2,2.38,74.4,No,22,Merit
+STU01262,Biology,Spring 2024,5,31.2,3.81,100,No,37,Athletic
+STU01263,Business,Fall 2023,3,19.2,3.07,79.4,Yes,33,Need-based
+STU01264,Business,Spring 2024,4,8.1,2.26,64.3,No,19,Department
+STU01265,Business,Spring 2024,3,18.4,3.35,76.7,No,30,Merit
+STU01266,Mathematics,Spring 2024,4,9.6,2.96,83.6,Yes,18,Department
+STU01267,Business,Fall 2023,5,9.1,2.29,81.8,No,,Athletic
+STU01268,Mathematics,Fall 2023,5,14.1,2.64,61.3,No,32,None
+STU01269,Biology,Fall 2023,6,8.5,2.53,99.2,No,22,Merit
+STU01270,Mathematics,Spring 2024,3,13.2,2.51,88.2,No,30,Athletic
+STU01271,Computer Science,Fall 2023,6,9.9,2.39,80.4,No,,Athletic
+STU01272,Engineering,Fall 2023,3,4.5,2.45,69.3,No,29,Department
+STU01273,Computer Science,Fall 2024,4,22.4,3.04,80.5,Yes,11,Merit
+STU01274,Mathematics,Fall 2024,5,14.8,2.98,66.6,No,43,Need-based
+STU01275,Biology,Spring 2024,5,11.5,2.74,94.7,Yes,25,Department
+STU01276,Engineering,Spring 2024,6,10.0,2.89,83.3,Yes,56,Need-based
+STU01277,Engineering,Spring 2024,5,20.1,2.67,72.3,Yes,20,Merit
+STU01278,Mathematics,Fall 2024,6,8.8,2.22,74.5,No,19,Merit
+STU01279,Mathematics,Fall 2024,5,7.0,2.24,92.4,No,21,Athletic
+STU01280,Engineering,Fall 2024,4,9.3,2.83,83.3,No,16,Department
+STU01281,Biology,Spring 2024,6,19.2,2.97,87.0,No,29,Department
+STU01282,Mathematics,Fall 2023,6,9.6,2.57,77.0,No,,Athletic
+STU01283,Biology,Spring 2024,5,5.3,2.65,90.8,Yes,52,Department
+STU01284,Mathematics,Fall 2024,6,16.0,3.0,67.4,No,30,Athletic
+STU01285,Mathematics,Spring 2024,5,15.1,2.8,66.7,No,20,Athletic
+STU01286,Business,Spring 2024,5,9.2,2.4,60.3,Yes,49,Merit
+STU01287,Biology,Fall 2023,4,14.6,2.93,83.5,No,48,Merit
+STU01288,Engineering,Spring 2024,4,17.4,2.42,76.3,No,45,Need-based
+STU01289,Mathematics,Fall 2023,6,21.8,3.28,77.1,No,33,None
+STU01290,Biology,Spring 2024,4,16.1,2.72,45.3,No,18,Department
+STU01291,Business,Fall 2024,3,6.1,2.12,87.6,No,61,Athletic
+STU01292,Engineering,Fall 2023,5,11.7,2.4,73.4,No,20,Need-based
+STU01293,Mathematics,Fall 2024,6,13.7,2.54,89.7,Yes,9,Need-based
+STU01294,Engineering,Fall 2023,5,12.1,1.86,81.7,No,33,Department
+STU01295,Mathematics,Fall 2024,6,24.6,3.47,72.1,No,14,Merit
+STU01296,Business,Spring 2024,4,16.6,3.18,80.0,Yes,20,Athletic
+STU01297,Engineering,Fall 2023,3,12.2,2.64,99.1,No,23,Need-based
+STU01298,Computer Science,Spring 2024,6,9.0,2.17,81.5,No,16,Need-based
+STU01299,Business,Fall 2023,4,20.1,3.28,45.2,No,28,None
+STU01300,Business,Fall 2023,5,9.3,2.55,97.9,No,5,Need-based
+STU01301,Biology,Fall 2024,6,10.6,2.23,69.3,Yes,20,Merit
+STU01302,Mathematics,Spring 2024,6,21.8,2.93,91.8,No,26,None
+STU01303,Computer Science,Fall 2023,6,23.7,3.29,75.2,Yes,34,Merit
+STU01304,Business,Fall 2023,4,20.6,2.65,77.5,No,24,Athletic
+STU01305,Engineering,Fall 2024,6,12.9,2.09,71.9,No,35,Need-based
+STU01306,Computer Science,Fall 2023,3,13.0,2.31,91.8,Yes,32,Merit
+STU01307,Business,Fall 2023,3,19.9,3.33,66.7,No,35,Athletic
+STU01308,Computer Science,Fall 2023,4,16.6,2.45,72.1,No,41,Merit
+STU01309,Mathematics,Fall 2023,5,13.4,2.7,82.0,No,23,Athletic
+STU01310,Computer Science,Fall 2024,6,4.3,2.49,75.7,No,30,Need-based
+STU01311,Engineering,Spring 2024,5,26.4,3.3,85.1,No,47,None
+STU01312,Computer Science,Fall 2023,3,4.0,1.66,91.5,No,38,Merit
+STU01313,Biology,Fall 2023,4,2.8,2.01,75.7,No,39,Department
+STU01314,Engineering,Fall 2024,5,14.1,2.38,87.9,No,19,Merit
+STU01315,Business,Fall 2023,3,20.2,3.07,54.3,Yes,14,Need-based
+STU01316,Mathematics,Fall 2023,5,18.2,3.12,66.6,No,12,Need-based
+STU01317,Engineering,Spring 2024,5,15.2,3.03,69.2,No,39,None
+STU01318,Computer Science,Spring 2024,4,14.0,3.14,77.0,Yes,14,None
+STU01319,Computer Science,Spring 2024,4,15.3,3.16,90.0,No,6,Need-based
+STU01320,Biology,Spring 2024,3,16.7,2.9,77.4,No,25,None
+STU01321,Biology,Fall 2024,5,8.4,2.56,94.2,No,24,None
+STU01322,Engineering,Fall 2023,3,18.3,2.97,63.5,No,,Need-based
+STU01323,Computer Science,Fall 2024,6,19.2,3.49,78.7,No,28,Need-based
+STU01324,Mathematics,Fall 2023,6,22.6,3.25,64.8,Yes,19,Need-based
+STU01325,Biology,Fall 2023,6,17.3,2.81,70.7,Yes,23,Athletic
+STU01326,Engineering,Fall 2023,5,10.0,2.95,69.9,Yes,24,Merit
+STU01327,Biology,Fall 2023,3,14.7,2.54,74.7,No,26,Department
+STU01328,Engineering,Fall 2023,6,23.7,3.37,69.1,Yes,29,Athletic
+STU01329,Biology,Fall 2023,3,22.7,3.23,62.8,No,6,Merit
+STU01330,Engineering,Spring 2024,6,4.7,2.72,100,No,32,Athletic
+STU01331,Biology,Spring 2024,5,8.8,2.16,60.5,No,18,Athletic
+STU01332,Biology,Spring 2024,6,7.4,1.69,88.8,No,17,Need-based
+STU01333,Mathematics,Fall 2024,6,20.7,3.24,72.5,No,18,Department
+STU01334,Computer Science,Spring 2024,3,11.0,2.86,94.3,No,5,Department
+STU01335,Engineering,Fall 2023,3,10.7,3.22,80.1,No,22,Athletic
+STU01336,Business,Spring 2024,3,5.4,2.97,78.6,No,47,Merit
+STU01337,Business,Fall 2023,3,12.9,3.0,59.3,No,12,None
+STU01338,Computer Science,Fall 2023,5,11.0,2.25,91.5,No,35,Department
+STU01339,Computer Science,Spring 2024,5,16.4,3.16,69.9,No,16,Department
+STU01340,Computer Science,Fall 2023,4,17.2,2.72,84.9,Yes,21,None
+STU01341,Engineering,Fall 2023,5,6.1,2.55,92.3,No,5,None
+STU01342,Engineering,Fall 2024,3,13.5,2.19,77.7,No,28,None
+STU01343,Biology,Fall 2023,5,2.3,2.87,79.2,Yes,21,Athletic
+STU01344,Business,Fall 2023,4,19.3,2.69,66.8,No,15,Athletic
+STU01345,Mathematics,Fall 2024,6,12.5,2.35,72.6,No,41,None
+STU01346,Mathematics,Fall 2024,4,6.4,2.84,90.9,No,32,None
+STU01347,Mathematics,Fall 2024,3,15.3,2.83,53.3,No,57,Merit
+STU01348,Engineering,Fall 2024,3,15.4,2.67,87.6,No,22,Department
+STU01349,Computer Science,Fall 2024,6,8.7,1.97,63.8,No,,None
+STU01350,Biology,Fall 2024,4,9.4,2.67,69.9,No,,None
+STU01351,Business,Fall 2023,4,21.7,3.05,62.6,No,38,Department
+STU01352,Engineering,Spring 2024,6,16.0,3.19,100,Yes,36,Department
+STU01353,Mathematics,Fall 2024,5,22.7,3.57,100,No,24,Department
+STU01354,Mathematics,Fall 2024,5,7.6,2.5,80.8,No,21,Athletic
+STU01355,Biology,Fall 2023,6,13.1,2.58,91.8,Yes,44,Athletic
+STU01356,Mathematics,Spring 2024,4,14.2,2.59,68.4,Yes,,Department
+STU01357,Mathematics,Fall 2023,5,13.1,2.85,95.6,No,,Need-based
+STU01358,Engineering,Fall 2024,3,10.6,2.43,86.7,No,21,Department
+STU01359,Computer Science,Fall 2023,3,27.1,3.34,76.3,No,12,Department
+STU01360,Engineering,Spring 2024,4,15.0,2.95,88.3,No,21,Need-based
+STU01361,Biology,Spring 2024,3,19.4,2.92,68.4,No,9,Merit
+STU01362,Business,Spring 2024,5,21.1,3.0,84.4,No,,Need-based
+STU01363,Biology,Fall 2023,4,1.7,2.02,66.5,No,21,Department
+STU01364,Engineering,Fall 2023,6,24.3,2.76,61.7,No,39,Merit
+STU01365,Engineering,Spring 2024,6,21.3,2.81,43.5,Yes,36,Athletic
+STU01366,Engineering,Spring 2024,6,24.7,3.44,82.2,No,15,Athletic
+STU01367,Biology,Fall 2023,6,19.4,2.97,75.9,No,30,None
+STU01368,Computer Science,Fall 2024,5,18.0,2.99,46.6,No,29,Merit
+STU01369,Mathematics,Fall 2024,4,4.3,1.91,69.5,No,36,Department
+STU01370,Computer Science,Fall 2023,5,11.4,2.58,49.9,Yes,29,Merit
+STU01371,Biology,Fall 2023,3,9.3,2.61,76.1,No,38,Department
+STU01372,Engineering,Fall 2024,3,31.1,3.77,72.9,No,14,None
+STU01373,Engineering,Fall 2023,4,13.9,3.22,90.3,Yes,37,Athletic
+STU01374,Engineering,Spring 2024,3,9.5,2.07,64.3,No,32,Department
+STU01375,Biology,Spring 2024,3,20.5,3.14,95.0,No,24,Need-based
+STU01376,Biology,Spring 2024,5,14.9,2.97,73.4,No,12,Athletic
+STU01377,Computer Science,Fall 2024,5,7.9,2.12,60.3,No,5,Athletic
+STU01378,Biology,Spring 2024,4,17.4,2.78,78.2,No,36,None
+STU01379,Computer Science,Fall 2024,3,1.8,1.98,81.5,No,31,Department
+STU01380,Biology,Fall 2024,3,19.3,3.39,67.6,No,20,Department
+STU01381,Biology,Spring 2024,6,28.0,2.82,86.5,No,21,None
+STU01382,Mathematics,Fall 2024,3,12.3,2.42,55.3,No,17,Merit
+STU01383,Biology,Fall 2024,3,25.0,3.43,96.2,Yes,14,Department
+STU01384,Biology,Fall 2023,3,18.2,2.82,81.4,No,31,Need-based
+STU01385,Engineering,Fall 2023,4,21.1,3.26,89.1,No,29,Department
+STU01386,Engineering,Fall 2024,3,20.5,2.94,66.1,Yes,,Department
+STU01387,Engineering,Spring 2024,3,4.8,2.31,60.4,No,32,Department
+STU01388,Engineering,Fall 2023,3,15.1,2.92,84.6,No,36,Athletic
+STU01389,Engineering,Fall 2024,6,19.6,2.98,81.8,Yes,11,None
+STU01390,Computer Science,Fall 2023,3,14.7,2.63,73.6,No,44,Department
+STU01391,Computer Science,Spring 2024,3,15.4,3.01,86.2,No,9,Athletic
+STU01392,Engineering,Fall 2023,4,10.6,2.99,71.7,No,,Department
+STU01393,Computer Science,Fall 2023,4,15.2,2.75,78.2,No,26,Merit
+STU01394,Computer Science,Spring 2024,4,9.7,2.93,99.8,No,37,Athletic
+STU01395,Computer Science,Fall 2023,4,10.2,2.29,56.1,Yes,19,Department
+STU01396,Computer Science,Fall 2023,6,9.5,2.42,57.7,No,29,Merit
+STU01397,Biology,Fall 2024,3,11.7,2.57,77.0,No,18,Need-based
+STU01398,Business,Fall 2023,5,1.3,2.68,83.6,No,12,Merit
+STU01399,Engineering,Fall 2024,3,12.9,2.38,72.2,No,30,Merit
+STU01400,Computer Science,Fall 2023,5,20.8,2.59,66.6,No,7,Department
+STU01401,Mathematics,Spring 2024,4,14.9,3.04,45.6,Yes,28,None
+STU01402,Engineering,Spring 2024,4,7.9,2.21,77.5,No,46,Athletic
+STU01403,Biology,Fall 2023,5,20.4,3.06,71.9,No,26,Department
+STU01404,Business,Spring 2024,5,10.0,2.99,73.1,No,32,None
+STU01405,Engineering,Spring 2024,3,24.6,3.4,95.7,No,9,Department
+STU01406,Computer Science,Fall 2024,3,15.9,2.32,78.1,No,18,Merit
+STU01407,Computer Science,Fall 2024,4,9.7,2.53,69.8,No,25,Need-based
+STU01408,Biology,Spring 2024,6,14.8,2.93,74.6,No,27,Merit
+STU01409,Business,Fall 2023,5,17.7,2.39,81.8,No,29,Department
+STU01410,Business,Fall 2024,6,24.5,3.24,95.3,No,44,Merit
+STU01411,Mathematics,Fall 2024,6,15.9,2.6,100,No,,Athletic
+STU01412,Biology,Fall 2024,3,23.6,2.83,80.6,No,43,Merit
+STU01413,Mathematics,Fall 2024,4,8.1,2.26,74.4,No,17,None
+STU01414,Biology,Fall 2023,3,23.7,3.33,78.8,Yes,50,None
+STU01415,Engineering,Fall 2023,6,22.2,2.74,62.9,No,24,None
+STU01416,Mathematics,Fall 2024,3,16.8,3.24,71.0,Yes,27,Department
+STU01417,Engineering,Spring 2024,6,5.1,2.42,83.7,No,31,Department
+STU01418,Biology,Fall 2023,5,19.8,3.01,74.4,No,29,Athletic
+STU01419,Computer Science,Fall 2023,4,14.6,2.79,82.3,No,43,Department
+STU01420,Business,Fall 2023,4,11.2,2.69,73.3,No,41,Athletic
+STU01421,Computer Science,Spring 2024,3,25.1,3.11,59.6,No,11,None
+STU01422,Computer Science,Fall 2024,3,6.6,2.33,78.4,No,16,Merit
+STU01423,Mathematics,Fall 2024,4,18.8,2.95,72.3,Yes,44,Merit
+STU01424,Business,Spring 2024,6,6.2,2.12,92.8,No,29,None
+STU01425,Computer Science,Fall 2024,4,15.1,2.99,78.2,No,33,None
+STU01426,Mathematics,Fall 2024,5,10.2,2.69,58.4,Yes,,Need-based
+STU01427,Engineering,Fall 2023,3,10.7,2.44,61.7,No,9,Department
+STU01428,Business,Fall 2024,5,9.7,2.53,83.0,Yes,16,Athletic
+STU01429,Mathematics,Fall 2024,4,1.3,2.13,66.7,No,,Merit
+STU01430,Computer Science,Spring 2024,5,15.2,2.83,77.5,No,34,Merit
+STU01431,Computer Science,Spring 2024,4,20.2,3.23,63.5,No,30,Merit
+STU01432,Mathematics,Spring 2024,4,18.4,2.93,73.1,No,5,Department
+STU01433,Computer Science,Spring 2024,5,3.4,1.94,82.9,No,11,Merit
+STU01434,Engineering,Fall 2023,4,22.4,3.57,78.3,Yes,27,Department
+STU01435,Computer Science,Fall 2024,5,24.8,2.95,94.9,No,,Athletic
+STU01436,Business,Fall 2024,3,13.1,2.55,79.2,No,39,Need-based
+STU01437,Engineering,Fall 2024,4,18.0,2.92,76.8,No,31,None
+STU01438,Biology,Spring 2024,6,21.6,3.19,82.1,No,11,Athletic
+STU01439,Mathematics,Fall 2023,3,10.4,3.04,74.9,No,33,None
+STU01440,Computer Science,Fall 2024,4,16.9,3.32,65.2,Yes,,Athletic
+STU01441,Business,Spring 2024,6,16.8,2.87,92.7,No,17,Athletic
+STU01442,Computer Science,Fall 2023,6,21.5,3.0,88.6,No,33,Need-based
+STU01443,Computer Science,Spring 2024,4,3.1,1.77,92.0,No,20,Merit
+STU01444,Mathematics,Fall 2023,6,15.8,2.57,70.3,No,29,Athletic
+STU01445,Engineering,Spring 2024,6,23.5,3.07,82.9,Yes,46,Merit
+STU01446,Engineering,Fall 2024,6,7.2,2.71,71.6,No,37,Department
+STU01447,Business,Fall 2024,4,13.5,2.41,85.7,No,26,Need-based
+STU01448,Engineering,Fall 2023,4,10.3,3.1,85.2,No,11,Need-based
+STU01449,Mathematics,Fall 2023,5,13.7,2.59,74.4,No,28,Merit
+STU01450,Computer Science,Spring 2024,3,14.1,2.77,88.5,No,35,Athletic
+STU01451,Computer Science,Fall 2024,3,25.1,3.44,65.9,No,23,Department
+STU01452,Engineering,Spring 2024,4,21.2,3.05,94.2,No,28,Merit
+STU01453,Computer Science,Fall 2023,6,11.6,2.76,67.0,No,22,Department
+STU01454,Biology,Fall 2024,5,18.1,3.08,77.5,No,26,None
+STU01455,Mathematics,Spring 2024,5,15.3,2.76,85.3,No,26,Department
+STU01456,Mathematics,Fall 2024,4,17.7,2.72,71.1,No,30,Athletic
+STU01457,Computer Science,Spring 2024,5,21.2,2.72,85.6,No,38,Athletic
+STU01458,Computer Science,Spring 2024,5,18.8,3.32,83.3,No,36,Merit
+STU01459,Business,Fall 2024,6,21.7,3.04,91.5,No,,Department
+STU01460,Mathematics,Spring 2024,3,17.5,3.01,81.4,No,33,Athletic
+STU01461,Biology,Fall 2024,6,13.1,3.45,83.2,Yes,5,None
+STU01462,Computer Science,Fall 2023,3,17.5,2.64,79.0,No,23,Need-based
+STU01463,Business,Fall 2023,6,20.0,2.81,77.1,No,23,Department
+STU01464,Computer Science,Fall 2023,4,22.2,2.76,70.3,No,44,Merit
+STU01465,Biology,Fall 2024,5,1.0,2.16,68.9,No,21,Need-based
+STU01466,Business,Fall 2024,6,9.9,2.05,82.6,No,15,Merit
+STU01467,Engineering,Spring 2024,4,19.6,2.7,83.2,No,10,Merit
+STU01468,Engineering,Fall 2024,6,18.9,2.96,82.7,No,,None
+STU01469,Engineering,Fall 2024,5,22.0,3.19,81.7,No,13,Athletic
+STU01470,Engineering,Fall 2023,4,17.0,2.62,37.9,No,38,Athletic
+STU01471,Biology,Spring 2024,3,15.1,3.16,58.3,Yes,34,Merit
+STU01472,Mathematics,Spring 2024,5,8.1,2.5,53.7,Yes,43,Merit
+STU01473,Biology,Spring 2024,3,15.0,2.45,88.7,No,19,Department
+STU01474,Engineering,Fall 2024,6,14.8,2.51,75.2,Yes,27,Need-based
+STU01475,Engineering,Fall 2024,4,15.1,3.33,69.2,No,23,Need-based
+STU01476,Computer Science,Fall 2023,5,18.2,3.25,75.1,No,32,Merit
+STU01477,Mathematics,Fall 2024,5,4.6,2.56,96.8,No,31,Merit
+STU01478,Business,Spring 2024,5,18.6,2.77,68.9,No,18,Athletic
+STU01479,Biology,Fall 2024,3,11.8,3.31,80.1,Yes,32,Need-based
+STU01480,Business,Fall 2023,5,14.3,2.68,77.6,Yes,12,Department
+STU01481,Engineering,Spring 2024,3,14.1,2.14,64.6,Yes,,Department
+STU01482,Biology,Fall 2023,3,16.1,2.56,94.8,No,37,Merit
+STU01483,Biology,Spring 2024,3,16.5,2.39,73.1,No,27,Merit
+STU01484,Mathematics,Fall 2024,3,12.5,2.93,66.7,No,23,Department
+STU01485,Business,Fall 2023,4,8.9,2.73,71.2,No,34,None
+STU01486,Biology,Spring 2024,6,23.2,3.28,71.5,Yes,18,Athletic
+STU01487,Business,Fall 2024,6,20.5,3.04,91.0,Yes,46,None
+STU01488,Mathematics,Fall 2024,6,10.8,2.33,75.2,No,5,None
+STU01489,Biology,Fall 2024,4,5.8,2.49,77.3,No,24,Department
+STU01490,Business,Fall 2024,6,12.0,3.04,78.3,Yes,35,Need-based
+STU01491,Mathematics,Fall 2024,4,9.0,2.43,84.3,No,26,Department
+STU01492,Engineering,Fall 2024,5,26.8,3.61,69.4,Yes,47,None
+STU01493,Engineering,Fall 2023,5,9.4,2.36,78.6,No,14,Athletic
+STU01494,Biology,Fall 2024,4,12.7,2.99,100,No,33,None
+STU01495,Computer Science,Fall 2023,4,13.0,2.98,78.3,No,8,Athletic
+STU01496,Business,Spring 2024,4,23.8,2.97,71.1,No,30,Athletic
+STU01497,Computer Science,Fall 2023,6,18.4,3.47,60.2,No,28,Need-based
+STU01498,Computer Science,Spring 2024,5,9.6,2.58,82.2,No,,Athletic
+STU01499,Computer Science,Fall 2024,5,10.8,2.47,85.5,No,,Merit
+STU01500,Business,Fall 2023,6,21.5,2.88,75.6,No,41,None
+STU01501,Engineering,Spring 2024,6,18.9,2.81,100,No,32,Department
+STU01502,Biology,Spring 2024,6,23.1,3.36,79.7,No,15,Department
+STU01503,Engineering,Fall 2024,3,7.6,2.74,78.2,No,47,Athletic
+STU01504,Biology,Fall 2023,6,4.6,2.12,78.0,No,35,Merit
+STU01505,Computer Science,Fall 2023,5,13.6,2.86,63.2,Yes,5,Department
+STU01506,Mathematics,Fall 2024,3,1.3,2.18,75.6,No,21,Athletic
+STU01507,Business,Fall 2023,4,1.0,2.09,100,No,,None
+STU01508,Computer Science,Fall 2024,3,16.9,2.76,74.1,Yes,17,Need-based
+STU01509,Mathematics,Fall 2024,3,10.1,2.71,80.9,Yes,32,Department
+STU01510,Computer Science,Spring 2024,4,15.5,1.78,82.1,No,13,Need-based
+STU01511,Biology,Fall 2024,4,5.2,2.6,100,Yes,37,None
+STU01512,Engineering,Spring 2024,3,11.9,2.69,66.1,No,24,Merit
+STU01513,Business,Fall 2024,5,9.3,3.01,98.0,Yes,10,Need-based
+STU01514,Mathematics,Fall 2023,3,17.3,2.68,79.6,No,14,Merit
+STU01515,Biology,Spring 2024,6,9.6,2.91,93.1,No,19,Need-based
+STU01516,Engineering,Fall 2024,3,6.6,2.27,70.0,No,42,None
+STU01517,Engineering,Fall 2024,4,20.9,3.06,87.4,No,5,Need-based
+STU01518,Mathematics,Spring 2024,6,15.4,2.48,69.8,No,36,Athletic
+STU01519,Engineering,Spring 2024,3,20.8,2.95,81.6,No,40,None
+STU01520,Computer Science,Fall 2024,4,9.9,2.63,43.0,No,32,None
+STU01521,Biology,Fall 2023,3,16.8,2.78,63.5,No,5,Athletic
+STU01522,Computer Science,Fall 2023,6,19.0,2.89,84.7,No,6,Merit
+STU01523,Engineering,Fall 2023,3,17.1,2.55,64.2,No,38,Merit
+STU01524,Engineering,Fall 2023,3,19.8,3.1,97.5,No,,Merit
+STU01525,Computer Science,Fall 2024,3,15.6,2.88,100,No,,Department
+STU01526,Computer Science,Spring 2024,4,16.1,2.7,70.7,No,10,Need-based
+STU01527,Business,Spring 2024,6,11.9,2.33,81.4,No,29,Need-based
+STU01528,Mathematics,Fall 2023,3,11.5,2.45,80.4,No,29,Merit
+STU01529,Mathematics,Fall 2024,6,19.4,3.18,87.4,No,24,None
+STU01530,Computer Science,Fall 2024,4,24.6,2.69,81.8,No,33,None
+STU01531,Mathematics,Fall 2023,6,20.8,3.32,69.5,No,21,Athletic
+STU01532,Computer Science,Fall 2023,6,13.5,2.41,88.3,No,23,None
+STU01533,Engineering,Fall 2023,5,19.1,3.13,69.4,Yes,40,Merit
+STU01534,Biology,Spring 2024,5,13.7,3.15,57.8,Yes,30,Merit
+STU01535,Business,Fall 2023,5,12.6,2.91,87.1,Yes,30,None
+STU01536,Computer Science,Fall 2024,4,21.8,3.01,60.9,Yes,17,Department
+STU01537,Mathematics,Spring 2024,3,33.0,3.27,98.3,No,40,Need-based
+STU01538,Engineering,Spring 2024,5,22.1,2.86,57.6,No,25,Department
+STU01539,Business,Fall 2023,6,16.1,2.34,89.2,No,48,Athletic
+STU01540,Business,Fall 2024,4,12.0,2.63,68.8,No,36,None
+STU01541,Engineering,Spring 2024,6,10.7,2.68,70.5,Yes,5,Department
+STU01542,Engineering,Fall 2023,5,8.0,2.6,63.0,Yes,28,None
+STU01543,Computer Science,Spring 2024,5,19.2,3.03,88.1,Yes,29,Department
+STU01544,Mathematics,Fall 2024,4,20.6,3.48,65.9,No,,Need-based
+STU01545,Mathematics,Fall 2023,3,15.1,3.0,76.8,Yes,13,Department
+STU01546,Engineering,Fall 2023,5,27.0,3.26,74.7,No,29,Athletic
+STU01547,Mathematics,Fall 2024,3,14.3,2.71,85.8,No,34,Athletic
+STU01548,Business,Fall 2024,5,16.4,2.92,62.1,No,,Athletic
+STU01549,Mathematics,Spring 2024,3,16.0,1.93,70.4,No,26,Athletic
+STU01550,Biology,Fall 2023,6,19.0,2.79,63.5,No,,Merit
+STU01551,Business,Fall 2023,3,18.7,2.66,82.8,No,20,Department
+STU01552,Computer Science,Fall 2024,3,11.3,2.49,80.9,No,17,Merit
+STU01553,Computer Science,Fall 2024,5,23.2,2.58,80.0,No,43,Need-based
+STU01554,Biology,Fall 2023,4,17.6,3.71,100,Yes,,Department
+STU01555,Biology,Fall 2023,6,10.8,1.69,61.6,No,22,None
+STU01556,Business,Fall 2024,5,14.1,2.75,78.8,No,28,None
+STU01557,Engineering,Fall 2024,5,7.9,2.49,76.7,No,17,Athletic
+STU01558,Biology,Fall 2024,4,14.8,2.75,82.6,No,6,Department
+STU01559,Computer Science,Fall 2024,4,11.8,2.57,70.1,No,38,Need-based
+STU01560,Engineering,Fall 2023,5,11.6,2.5,88.9,No,35,Need-based
+STU01561,Business,Spring 2024,4,13.0,2.9,68.9,No,5,None
+STU01562,Biology,Fall 2024,6,3.0,2.18,94.5,No,39,Merit
+STU01563,Computer Science,Fall 2023,4,21.6,3.28,85.4,No,38,None
+STU01564,Engineering,Spring 2024,3,20.9,3.76,49.0,No,,Merit
+STU01565,Computer Science,Spring 2024,4,13.2,2.7,69.3,No,31,Merit
+STU01566,Engineering,Fall 2024,4,16.3,3.24,90.0,No,23,None
+STU01567,Mathematics,Fall 2023,3,10.4,2.52,88.7,No,22,Athletic
+STU01568,Biology,Fall 2024,4,20.9,2.89,82.6,No,49,Department
+STU01569,Business,Fall 2023,5,1.3,1.74,65.5,No,21,Department
+STU01570,Business,Fall 2024,6,17.0,2.81,98.0,Yes,21,Merit
+STU01571,Engineering,Fall 2024,6,7.3,2.27,73.2,No,42,Need-based
+STU01572,Biology,Fall 2023,4,8.8,2.61,92.2,Yes,5,Need-based
+STU01573,Mathematics,Spring 2024,3,8.9,2.25,82.1,No,28,None
+STU01574,Biology,Spring 2024,5,20.2,2.75,76.0,No,32,Need-based
+STU01575,Business,Fall 2024,4,20.4,3.09,44.1,Yes,14,Department
+STU01576,Engineering,Fall 2024,4,17.2,2.92,69.9,No,17,Athletic
+STU01577,Computer Science,Fall 2023,6,15.6,2.95,56.1,Yes,26,Need-based
+STU01578,Engineering,Fall 2023,4,10.1,2.4,100,No,21,Merit
+STU01579,Computer Science,Spring 2024,3,18.2,2.82,77.6,No,34,Department
+STU01580,Engineering,Fall 2023,4,15.1,2.67,74.1,No,35,Athletic
+STU01581,Biology,Spring 2024,3,16.0,2.8,87.9,No,25,None
+STU01582,Business,Fall 2023,5,20.5,3.0,77.1,No,38,Merit
+STU01583,Business,Fall 2023,4,11.1,2.54,81.4,No,24,None
+STU01584,Business,Spring 2024,3,14.7,2.64,81.5,No,24,Merit
+STU01585,Biology,Spring 2024,3,13.4,2.34,68.2,No,45,Athletic
+STU01586,Business,Fall 2024,3,15.5,2.14,69.4,No,41,Athletic
+STU01587,Biology,Spring 2024,6,12.0,2.29,81.2,No,13,None
+STU01588,Mathematics,Spring 2024,6,22.0,2.9,98.4,No,31,Department
+STU01589,Computer Science,Fall 2024,4,11.2,2.34,85.6,No,27,None
+STU01590,Mathematics,Spring 2024,4,7.9,2.92,84.4,Yes,22,Athletic
+STU01591,Biology,Fall 2024,4,11.1,3.16,82.3,Yes,5,None
+STU01592,Mathematics,Spring 2024,6,15.6,2.96,85.7,No,8,None
+STU01593,Business,Fall 2023,4,12.3,2.28,74.8,No,,Department
+STU01594,Biology,Spring 2024,6,14.0,3.08,77.8,No,36,Need-based
+STU01595,Mathematics,Fall 2024,6,9.4,2.04,73.6,No,11,Athletic
+STU01596,Biology,Fall 2024,4,6.3,2.21,70.4,No,14,Merit
+STU01597,Biology,Spring 2024,5,17.4,3.32,69.0,No,13,None
+STU01598,Engineering,Spring 2024,5,15.3,3.18,100,No,29,Athletic
+STU01599,Computer Science,Fall 2023,3,8.6,2.31,87.0,No,23,Department
+STU01600,Biology,Fall 2024,5,19.9,3.33,80.1,No,30,Need-based
+STU01601,Engineering,Spring 2024,4,21.5,2.98,73.3,Yes,40,None
+STU01602,Mathematics,Spring 2024,4,21.0,3.37,85.4,No,34,Merit
+STU01603,Mathematics,Fall 2023,3,17.1,3.11,67.9,No,,Merit
+STU01604,Biology,Fall 2024,6,28.1,3.71,100,No,30,Athletic
+STU01605,Mathematics,Fall 2024,4,9.3,2.55,95.3,No,,Department
+STU01606,Business,Fall 2024,3,17.9,2.85,73.0,No,40,Need-based
+STU01607,Business,Fall 2024,4,23.2,3.22,71.3,Yes,,Athletic
+STU01608,Mathematics,Fall 2024,4,12.5,2.72,58.9,No,34,Need-based
+STU01609,Biology,Fall 2024,4,23.7,3.02,83.6,No,14,None
+STU01610,Biology,Fall 2024,5,8.6,2.1,99.2,No,32,Athletic
+STU01611,Engineering,Fall 2023,5,15.0,3.07,63.5,No,38,Need-based
+STU01612,Business,Fall 2024,4,19.6,3.16,63.7,Yes,,Athletic
+STU01613,Business,Fall 2024,5,7.7,3.17,74.2,Yes,,Department
+STU01614,Biology,Fall 2024,5,11.9,2.74,79.5,Yes,15,Need-based
+STU01615,Engineering,Fall 2023,6,16.8,2.96,70.2,No,21,Department
+STU01616,Computer Science,Fall 2023,3,19.1,2.58,73.8,Yes,19,Merit
+STU01617,Biology,Spring 2024,3,8.5,2.07,74.0,No,21,Athletic
+STU01618,Business,Fall 2023,3,14.9,2.7,78.6,Yes,20,Need-based
+STU01619,Computer Science,Spring 2024,4,16.7,3.16,87.8,Yes,14,None
+STU01620,Computer Science,Fall 2024,5,21.8,3.47,80.7,Yes,,Department
+STU01621,Engineering,Fall 2023,6,21.3,3.1,82.3,No,24,Athletic
+STU01622,Engineering,Spring 2024,4,20.7,2.51,83.9,No,31,Need-based
+STU01623,Biology,Spring 2024,6,7.4,1.98,66.8,No,21,None
+STU01624,Engineering,Fall 2023,6,10.9,2.43,93.4,No,22,Merit
+STU01625,Business,Fall 2023,3,19.4,2.51,87.5,No,13,Department
+STU01626,Mathematics,Fall 2023,4,14.9,2.28,78.9,No,33,Need-based
+STU01627,Biology,Spring 2024,3,11.0,2.98,69.3,No,27,Department
+STU01628,Mathematics,Spring 2024,6,17.7,3.02,93.2,No,29,Department
+STU01629,Mathematics,Fall 2023,3,20.1,3.55,75.5,Yes,33,None
+STU01630,Mathematics,Spring 2024,6,23.5,3.64,92.4,No,34,Need-based
+STU01631,Mathematics,Fall 2024,3,19.4,3.26,84.1,Yes,30,Merit
+STU01632,Engineering,Spring 2024,5,16.3,2.26,63.7,No,24,Merit
+STU01633,Mathematics,Fall 2024,5,21.8,2.7,67.6,Yes,5,Need-based
+STU01634,Engineering,Fall 2023,5,10.6,2.64,67.5,No,14,Need-based
+STU01635,Business,Spring 2024,4,15.4,2.47,78.6,Yes,30,Athletic
+STU01636,Biology,Fall 2024,3,8.2,2.16,94.5,No,29,Merit
+STU01637,Business,Fall 2024,3,16.3,2.6,71.4,No,27,None
+STU01638,Biology,Fall 2024,6,2.7,1.97,86.0,No,,Athletic
+STU01639,Computer Science,Fall 2024,6,14.1,3.71,82.6,Yes,33,Athletic
+STU01640,Business,Fall 2024,6,12.0,2.93,78.9,Yes,,None
+STU01641,Computer Science,Spring 2024,3,12.5,1.97,76.3,No,32,None
+STU01642,Mathematics,Fall 2023,6,16.1,2.9,85.3,No,5,Need-based
+STU01643,Computer Science,Fall 2024,6,12.4,3.0,76.9,Yes,36,Need-based
+STU01644,Engineering,Fall 2024,4,29.1,2.66,71.8,No,25,Department
+STU01645,Business,Fall 2023,5,13.2,2.8,76.6,No,13,Need-based
+STU01646,Computer Science,Fall 2023,3,16.7,2.84,64.2,No,24,None
+STU01647,Biology,Spring 2024,3,9.5,2.33,75.3,No,,Merit
+STU01648,Mathematics,Spring 2024,6,18.4,2.51,72.7,No,11,Athletic
+STU01649,Computer Science,Fall 2023,5,9.2,3.15,58.7,No,23,Department
+STU01650,Business,Fall 2024,4,14.1,3.02,66.9,No,9,Merit
+STU01651,Engineering,Spring 2024,4,8.8,2.31,89.3,No,38,Merit
+STU01652,Mathematics,Fall 2023,6,10.3,2.76,66.1,Yes,5,Department
+STU01653,Biology,Fall 2023,4,18.7,3.09,95.7,No,22,Department
+STU01654,Engineering,Spring 2024,6,17.8,3.25,68.0,No,39,Merit
+STU01655,Business,Fall 2023,6,17.6,3.14,85.0,Yes,17,Merit
+STU01656,Computer Science,Fall 2024,6,8.9,2.26,77.4,No,43,Athletic
+STU01657,Business,Spring 2024,4,12.6,2.48,87.1,No,30,Department
+STU01658,Biology,Fall 2023,4,23.5,3.63,67.0,Yes,,Need-based
+STU01659,Computer Science,Spring 2024,3,11.1,2.66,91.3,No,17,Department
+STU01660,Engineering,Fall 2024,3,2.8,2.13,99.0,No,37,Merit
+STU01661,Engineering,Spring 2024,5,15.1,2.11,74.5,No,38,Merit
+STU01662,Business,Fall 2024,4,14.7,2.54,86.0,No,19,Athletic
+STU01663,Business,Fall 2024,6,19.0,2.71,62.8,No,33,Department
+STU01664,Mathematics,Fall 2023,6,27.2,3.93,75.9,No,13,Athletic
+STU01665,Computer Science,Spring 2024,5,15.7,2.61,88.2,No,,Department
+STU01666,Computer Science,Fall 2023,4,16.0,2.5,83.3,No,24,Department
+STU01667,Mathematics,Fall 2024,4,10.2,2.18,94.5,No,18,Athletic
+STU01668,Biology,Fall 2024,5,10.8,2.85,78.1,Yes,22,Need-based
+STU01669,Engineering,Fall 2024,5,22.9,3.34,100,No,26,None
+STU01670,Engineering,Fall 2024,6,17.3,3.11,80.6,Yes,29,Merit
+STU01671,Engineering,Spring 2024,4,11.0,2.56,73.0,No,27,Need-based
+STU01672,Biology,Fall 2024,3,6.8,2.26,73.0,No,42,Athletic
+STU01673,Biology,Fall 2024,5,15.8,2.8,84.9,No,37,Merit
+STU01674,Computer Science,Fall 2023,3,26.1,3.56,100,Yes,38,Athletic
+STU01675,Computer Science,Fall 2024,5,20.3,3.46,66.8,Yes,26,Merit
+STU01676,Biology,Fall 2023,6,23.1,3.27,76.6,No,14,Merit
+STU01677,Mathematics,Fall 2023,5,17.0,2.75,87.4,No,28,Need-based
+STU01678,Engineering,Fall 2024,3,4.7,2.25,90.0,No,,Department
+STU01679,Business,Spring 2024,3,21.4,3.42,79.8,Yes,28,Athletic
+STU01680,Mathematics,Fall 2023,6,17.6,2.79,63.3,No,25,Athletic
+STU01681,Engineering,Spring 2024,6,16.1,2.46,88.1,No,32,None
+STU01682,Engineering,Spring 2024,6,24.0,3.13,66.5,No,31,Athletic
+STU01683,Business,Fall 2023,3,15.1,2.58,61.7,Yes,35,Merit
+STU01684,Engineering,Fall 2024,5,5.8,2.8,91.4,No,15,Need-based
+STU01685,Engineering,Fall 2023,6,25.5,3.33,79.9,No,28,Athletic
+STU01686,Biology,Fall 2024,3,25.7,4.0,56.2,Yes,38,Merit
+STU01687,Business,Fall 2023,6,20.5,3.17,86.4,Yes,,None
+STU01688,Computer Science,Fall 2023,5,25.6,3.36,74.1,Yes,5,Need-based
+STU01689,Computer Science,Fall 2023,6,11.8,2.43,63.6,No,,Need-based
+STU01690,Business,Fall 2024,6,15.1,2.88,67.7,No,22,Need-based
+STU01691,Computer Science,Fall 2024,3,12.3,2.95,77.3,Yes,37,Merit
+STU01692,Computer Science,Fall 2024,4,25.2,3.03,77.9,No,22,None
+STU01693,Biology,Fall 2023,5,7.7,2.62,74.8,No,36,Department
+STU01694,Business,Fall 2024,5,13.3,2.21,58.4,No,36,Need-based
+STU01695,Engineering,Spring 2024,4,18.9,2.46,74.5,Yes,5,Athletic
+STU01696,Computer Science,Fall 2023,3,23.1,2.82,93.5,No,27,None
+STU01697,Computer Science,Fall 2024,3,15.8,2.76,80.5,No,27,Need-based
+STU01698,Engineering,Spring 2024,6,9.0,3.28,63.3,Yes,37,Need-based
+STU01699,Mathematics,Spring 2024,5,15.5,2.57,90.4,No,35,Need-based
+STU01700,Biology,Spring 2024,6,27.0,2.87,75.7,Yes,14,Department
+STU01701,Biology,Spring 2024,6,12.0,3.15,91.9,No,13,Department
+STU01702,Engineering,Spring 2024,5,17.8,2.67,90.4,No,33,Merit
+STU01703,Business,Spring 2024,6,18.5,2.84,88.6,Yes,36,Need-based
+STU01704,Computer Science,Spring 2024,4,8.8,2.19,75.3,No,15,None
+STU01705,Business,Fall 2024,4,10.1,2.19,76.8,No,12,None
+STU01706,Business,Fall 2023,3,20.6,2.76,71.7,No,34,None
+STU01707,Biology,Fall 2024,6,13.7,2.65,78.7,No,20,Athletic
+STU01708,Business,Fall 2024,5,13.3,2.33,69.7,No,11,Merit
+STU01709,Mathematics,Spring 2024,3,24.4,3.42,86.0,Yes,57,Department
+STU01710,Computer Science,Spring 2024,4,15.0,3.29,69.6,No,33,None
+STU01711,Mathematics,Fall 2023,3,16.9,2.88,64.7,No,19,Need-based
+STU01712,Mathematics,Fall 2023,4,21.5,2.64,90.4,No,48,None
+STU01713,Computer Science,Spring 2024,3,15.1,3.24,80.3,No,46,Athletic
+STU01714,Engineering,Fall 2024,6,15.5,2.5,56.6,No,31,Merit
+STU01715,Business,Spring 2024,3,6.6,2.54,54.2,No,25,Merit
+STU01716,Computer Science,Spring 2024,3,22.3,2.9,52.2,No,21,Department
+STU01717,Biology,Fall 2024,4,14.7,2.23,81.3,No,35,Department
+STU01718,Engineering,Fall 2024,4,13.5,2.51,70.5,No,11,Need-based
+STU01719,Business,Fall 2023,5,12.1,2.31,88.7,No,35,Need-based
+STU01720,Engineering,Fall 2024,6,3.0,2.47,71.6,No,21,Merit
+STU01721,Engineering,Spring 2024,3,17.8,2.41,81.6,No,22,None
+STU01722,Biology,Fall 2024,5,1.0,2.24,62.2,No,17,Need-based
+STU01723,Business,Spring 2024,5,13.9,2.21,76.5,No,34,Need-based
+STU01724,Engineering,Spring 2024,3,9.2,2.73,75.2,No,14,Merit
+STU01725,Engineering,Spring 2024,6,7.6,3.1,67.8,Yes,30,Merit
+STU01726,Biology,Fall 2023,3,10.7,2.78,51.6,Yes,25,Need-based
+STU01727,Engineering,Fall 2024,3,11.5,2.7,87.7,No,18,None
+STU01728,Mathematics,Fall 2023,4,17.3,2.45,79.2,No,9,Department
+STU01729,Business,Fall 2023,5,16.8,2.98,78.0,Yes,5,Athletic
+STU01730,Business,Fall 2023,5,11.1,2.14,77.7,No,5,Athletic
+STU01731,Business,Spring 2024,6,21.4,2.64,96.2,No,15,None
+STU01732,Business,Fall 2023,3,25.0,3.19,81.6,Yes,41,None
+STU01733,Biology,Fall 2023,3,15.9,3.02,93.6,No,13,Department
+STU01734,Computer Science,Fall 2024,6,14.6,3.11,81.8,Yes,31,None
+STU01735,Biology,Fall 2023,3,19.1,3.01,72.3,No,23,None
+STU01736,Computer Science,Fall 2024,3,16.4,2.7,71.6,No,21,Athletic
+STU01737,Computer Science,Fall 2024,5,9.4,2.76,66.1,Yes,45,Merit
+STU01738,Business,Spring 2024,3,7.3,2.2,67.0,No,20,Department
+STU01739,Computer Science,Spring 2024,6,13.3,2.04,67.1,No,38,Athletic
+STU01740,Engineering,Spring 2024,3,17.6,2.8,100,No,12,Need-based
+STU01741,Business,Spring 2024,6,5.2,2.65,83.8,No,16,None
+STU01742,Engineering,Fall 2024,5,11.7,2.99,77.2,No,25,Need-based
+STU01743,Business,Spring 2024,3,11.3,2.24,76.9,No,33,Need-based
+STU01744,Computer Science,Fall 2023,6,11.1,2.62,75.5,No,19,None
+STU01745,Mathematics,Fall 2024,3,9.2,2.3,70.2,Yes,19,Athletic
+STU01746,Engineering,Fall 2024,4,24.5,3.84,78.3,No,30,Need-based
+STU01747,Biology,Fall 2024,4,21.3,2.92,72.8,No,20,Need-based
+STU01748,Biology,Spring 2024,5,1.8,2.11,73.5,No,5,Department
+STU01749,Biology,Fall 2023,5,4.1,2.55,80.2,No,43,Department
+STU01750,Biology,Fall 2023,5,2.7,2.24,83.1,No,,Department
+STU01751,Mathematics,Fall 2024,3,15.4,2.7,80.4,No,14,Department
+STU01752,Computer Science,Fall 2024,3,13.9,2.64,100,No,,Athletic
+STU01753,Business,Spring 2024,3,7.7,2.65,72.5,No,32,Merit
+STU01754,Engineering,Fall 2024,4,13.5,2.62,75.1,No,29,Merit
+STU01755,Mathematics,Spring 2024,4,26.6,3.24,46.6,Yes,21,Merit
+STU01756,Engineering,Fall 2023,4,11.6,2.46,69.6,No,32,Need-based
+STU01757,Mathematics,Spring 2024,3,8.7,2.24,60.2,No,29,Need-based
+STU01758,Computer Science,Fall 2024,4,18.7,2.82,76.5,No,22,Need-based
+STU01759,Mathematics,Fall 2024,5,8.6,2.3,50.3,Yes,12,Department
+STU01760,Mathematics,Spring 2024,3,16.5,2.71,69.1,No,,Department
+STU01761,Business,Fall 2023,5,22.8,3.12,90.6,No,18,Merit
+STU01762,Business,Fall 2023,3,12.7,2.6,63.3,No,25,Department
+STU01763,Engineering,Spring 2024,4,20.8,2.6,68.5,No,22,Department
+STU01764,Engineering,Fall 2023,4,23.1,3.7,97.3,No,20,Athletic
+STU01765,Biology,Fall 2023,3,22.9,2.9,89.0,No,33,Merit
+STU01766,Computer Science,Fall 2023,5,10.9,2.66,88.6,No,25,Merit
+STU01767,Mathematics,Spring 2024,5,16.8,2.94,82.8,No,39,Department
+STU01768,Business,Fall 2024,5,13.0,2.57,74.7,Yes,37,Athletic
+STU01769,Mathematics,Spring 2024,4,18.2,2.77,59.7,No,17,Department
+STU01770,Business,Fall 2024,4,14.9,2.8,61.4,No,28,None
+STU01771,Computer Science,Fall 2023,5,5.5,2.67,88.5,No,20,Need-based
+STU01772,Mathematics,Spring 2024,6,15.7,3.03,57.5,No,36,Merit
+STU01773,Computer Science,Spring 2024,4,25.6,2.48,79.5,No,37,Need-based
+STU01774,Engineering,Fall 2024,6,10.3,1.98,83.7,No,34,Athletic
+STU01775,Computer Science,Spring 2024,5,1.0,2.25,66.7,No,13,Merit
+STU01776,Biology,Spring 2024,3,16.8,3.26,76.7,Yes,24,Merit
+STU01777,Mathematics,Fall 2024,3,7.3,1.98,75.4,No,22,Merit
+STU01778,Mathematics,Fall 2023,5,15.2,2.85,45.9,No,,Need-based
+STU01779,Business,Spring 2024,5,16.4,2.79,73.3,No,33,Department
+STU01780,Engineering,Fall 2024,3,19.3,2.86,72.1,Yes,21,Need-based
+STU01781,Business,Fall 2023,3,6.4,2.17,69.9,No,34,Merit
+STU01782,Biology,Spring 2024,5,21.8,3.28,74.9,No,,Need-based
+STU01783,Biology,Spring 2024,4,24.9,3.4,69.9,No,38,Athletic
+STU01784,Engineering,Fall 2023,3,23.1,3.61,83.7,No,22,Department
+STU01785,Computer Science,Spring 2024,6,17.9,2.78,72.9,No,35,Athletic
+STU01786,Engineering,Fall 2023,6,2.0,1.69,97.8,No,17,None
+STU01787,Computer Science,Fall 2024,3,13.6,2.88,77.5,Yes,57,Need-based
+STU01788,Computer Science,Spring 2024,3,11.5,1.32,69.5,No,19,Athletic
+STU01789,Computer Science,Fall 2023,6,14.2,2.91,57.8,No,16,Athletic
+STU01790,Computer Science,Spring 2024,3,21.4,2.79,70.7,No,35,Department
+STU01791,Engineering,Fall 2023,5,19.1,2.58,82.6,No,31,Athletic
+STU01792,Computer Science,Fall 2023,5,8.2,2.6,96.8,Yes,,Department
+STU01793,Mathematics,Fall 2023,4,21.6,3.28,83.2,Yes,39,Department
+STU01794,Engineering,Fall 2023,3,22.8,3.21,77.6,No,7,None
+STU01795,Business,Fall 2024,6,14.3,2.65,97.7,No,42,Need-based
+STU01796,Engineering,Fall 2023,4,19.9,3.38,89.5,No,31,Need-based
+STU01797,Computer Science,Spring 2024,4,15.5,2.47,69.0,No,35,Department
+STU01798,Engineering,Fall 2024,5,19.2,2.92,80.5,Yes,31,Need-based
+STU01799,Business,Fall 2023,5,13.7,2.44,68.0,Yes,22,Department
+STU01800,Mathematics,Fall 2024,3,9.6,2.08,81.8,No,11,None
+STU01801,Engineering,Spring 2024,4,3.9,1.88,78.3,No,28,Merit
+STU01802,Mathematics,Spring 2024,4,11.7,2.61,58.6,No,15,Merit
+STU01803,Engineering,Fall 2023,5,14.9,2.94,86.0,Yes,,Merit
+STU01804,Computer Science,Spring 2024,6,15.8,2.44,74.3,No,38,Merit
+STU01805,Biology,Fall 2023,6,13.9,3.52,55.3,Yes,29,Need-based
+STU01806,Biology,Spring 2024,4,20.3,2.81,71.6,No,29,Need-based
+STU01807,Biology,Spring 2024,4,9.2,2.41,99.9,No,29,Department
+STU01808,Business,Fall 2023,4,16.3,2.79,80.3,No,23,Need-based
+STU01809,Engineering,Fall 2023,3,24.6,3.26,68.2,No,40,Department
+STU01810,Business,Fall 2023,5,17.3,3.16,89.3,No,19,Need-based
+STU01811,Engineering,Fall 2024,4,4.7,2.11,83.8,Yes,,Athletic
+STU01812,Biology,Spring 2024,5,14.2,2.62,79.3,No,25,Merit
+STU01813,Business,Fall 2024,3,1.6,1.7,88.8,No,22,Merit
+STU01814,Computer Science,Fall 2023,6,16.8,3.27,89.3,No,34,Need-based
+STU01815,Business,Spring 2024,5,13.3,2.82,87.3,No,28,Department
+STU01816,Biology,Spring 2024,4,19.1,2.61,88.6,No,7,Need-based
+STU01817,Engineering,Fall 2024,5,1.7,2.86,90.6,Yes,,Athletic
+STU01818,Computer Science,Fall 2023,4,7.4,2.2,83.7,No,33,Need-based
+STU01819,Biology,Fall 2024,6,17.8,2.82,68.5,No,21,Athletic
+STU01820,Biology,Spring 2024,4,14.4,2.62,77.8,Yes,21,Department
+STU01821,Engineering,Spring 2024,4,18.3,3.1,83.0,Yes,37,Department
+STU01822,Engineering,Fall 2023,5,16.0,3.25,78.4,No,19,Need-based
+STU01823,Engineering,Spring 2024,5,1.0,2.24,94.9,No,31,Need-based
+STU01824,Computer Science,Spring 2024,6,7.8,2.45,95.0,No,31,Athletic
+STU01825,Mathematics,Fall 2023,5,8.6,2.62,81.0,Yes,23,None
+STU01826,Computer Science,Fall 2023,4,9.6,2.47,81.4,No,32,Department
+STU01827,Computer Science,Fall 2024,4,20.3,2.65,59.3,No,5,None
+STU01828,Mathematics,Fall 2024,4,13.9,2.77,91.0,No,16,Need-based
+STU01829,Computer Science,Spring 2024,5,3.2,2.52,61.2,Yes,24,Athletic
+STU01830,Engineering,Fall 2023,3,2.8,2.64,65.6,No,23,Merit
+STU01831,Mathematics,Fall 2023,6,19.9,2.77,71.2,No,13,Athletic
+STU01832,Mathematics,Spring 2024,6,20.9,3.17,79.7,No,17,Merit
+STU01833,Mathematics,Spring 2024,5,26.4,3.43,91.8,No,5,Merit
+STU01834,Engineering,Fall 2024,4,18.1,2.48,71.7,No,23,None
+STU01835,Computer Science,Fall 2023,4,2.8,2.17,73.5,No,49,Need-based
+STU01836,Business,Fall 2024,6,10.2,2.34,74.5,No,15,None
+STU01837,Biology,Fall 2024,6,23.1,2.88,94.3,No,38,None
+STU01838,Business,Fall 2024,6,13.2,2.64,74.4,No,29,Department
+STU01839,Computer Science,Fall 2024,4,21.8,2.68,72.3,No,25,Merit
+STU01840,Biology,Spring 2024,4,18.8,2.9,97.0,No,27,Need-based
+STU01841,Business,Fall 2024,4,5.0,2.02,75.5,No,26,Merit
+STU01842,Computer Science,Fall 2023,3,23.8,3.02,84.2,No,58,None
+STU01843,Computer Science,Fall 2023,4,10.9,2.69,75.3,No,29,Need-based
+STU01844,Mathematics,Fall 2023,6,15.5,2.68,70.6,No,32,Department
+STU01845,Mathematics,Spring 2024,5,9.9,2.51,82.3,No,36,None
+STU01846,Business,Spring 2024,5,14.3,2.27,96.0,No,33,Need-based
+STU01847,Biology,Fall 2024,3,13.1,2.98,83.6,Yes,30,Merit
+STU01848,Engineering,Fall 2024,4,11.8,2.76,56.0,No,20,Merit
+STU01849,Business,Fall 2023,3,2.6,2.45,58.6,No,53,None
+STU01850,Computer Science,Fall 2024,5,17.6,2.38,74.1,No,50,Need-based
+STU01851,Computer Science,Spring 2024,4,11.8,2.32,51.2,No,5,Athletic
+STU01852,Biology,Spring 2024,4,8.8,2.31,93.0,No,33,Merit
+STU01853,Mathematics,Fall 2023,4,17.8,3.02,89.1,No,25,Merit
+STU01854,Business,Fall 2023,3,17.9,3.09,68.5,No,22,Department
+STU01855,Biology,Spring 2024,4,12.5,3.01,83.7,Yes,21,Need-based
+STU01856,Engineering,Fall 2023,4,11.3,2.58,76.0,No,28,Department
+STU01857,Engineering,Fall 2023,6,12.9,2.65,61.3,No,21,Merit
+STU01858,Business,Fall 2023,3,20.3,2.89,71.7,No,20,Athletic
+STU01859,Mathematics,Spring 2024,4,16.1,2.21,57.8,No,31,None
+STU01860,Business,Fall 2023,5,21.7,3.3,84.8,No,12,None
+STU01861,Business,Spring 2024,4,8.1,1.74,73.9,No,47,Need-based
+STU01862,Engineering,Fall 2023,4,14.6,2.62,62.0,No,26,Athletic
+STU01863,Mathematics,Fall 2024,6,18.0,2.84,95.5,No,,None
+STU01864,Business,Spring 2024,6,11.8,2.07,75.9,No,10,Athletic
+STU01865,Business,Spring 2024,4,12.8,2.38,95.6,No,38,None
+STU01866,Biology,Fall 2023,4,8.1,2.82,91.8,Yes,29,Merit
+STU01867,Engineering,Spring 2024,4,16.6,2.05,84.5,Yes,5,Department
+STU01868,Business,Fall 2023,6,16.4,2.68,80.8,No,27,Athletic
+STU01869,Computer Science,Spring 2024,5,15.4,2.37,71.7,No,,Merit
+STU01870,Biology,Fall 2023,6,28.0,3.33,90.1,Yes,43,Athletic
+STU01871,Computer Science,Spring 2024,5,4.4,2.16,95.4,No,27,Athletic
+STU01872,Computer Science,Spring 2024,3,23.2,2.86,99.2,No,31,Athletic
+STU01873,Biology,Fall 2023,4,11.5,2.53,72.4,No,20,Need-based
+STU01874,Mathematics,Fall 2023,4,10.1,2.66,55.6,No,50,Athletic
+STU01875,Business,Spring 2024,3,13.6,2.22,79.4,No,22,Merit
+STU01876,Biology,Fall 2024,4,20.0,3.01,88.1,No,38,Athletic
+STU01877,Computer Science,Fall 2024,5,16.9,2.95,56.5,No,5,Need-based
+STU01878,Engineering,Spring 2024,4,12.1,3.19,72.5,No,31,None
+STU01879,Business,Fall 2024,6,16.9,3.03,70.8,No,,None
+STU01880,Biology,Fall 2023,5,7.1,1.78,59.9,No,37,None
+STU01881,Engineering,Fall 2024,4,22.2,3.49,64.5,No,,Need-based
+STU01882,Engineering,Fall 2024,4,13.4,2.19,100,No,29,Department
+STU01883,Mathematics,Fall 2023,4,8.0,2.48,76.8,No,10,Merit
+STU01884,Biology,Fall 2024,4,13.9,2.87,70.3,No,19,Athletic
+STU01885,Biology,Fall 2024,3,15.9,3.25,84.7,Yes,43,Department
+STU01886,Biology,Fall 2023,3,20.3,3.26,77.3,Yes,22,Merit
+STU01887,Computer Science,Fall 2023,4,1.0,2.33,72.7,No,34,None
+STU01888,Mathematics,Fall 2023,6,15.1,2.51,62.6,No,36,Merit
+STU01889,Mathematics,Spring 2024,4,21.6,3.37,96.5,No,30,Department
+STU01890,Business,Fall 2023,3,7.2,2.51,64.6,Yes,,Need-based
+STU01891,Computer Science,Spring 2024,5,15.7,2.17,83.2,No,27,Need-based
+STU01892,Business,Spring 2024,4,13.8,2.62,47.6,No,,Need-based
+STU01893,Computer Science,Fall 2024,3,21.4,3.22,78.2,Yes,,Need-based
+STU01894,Engineering,Spring 2024,5,9.4,2.86,88.2,Yes,20,None
+STU01895,Engineering,Fall 2023,4,5.5,2.63,77.1,Yes,17,Need-based
+STU01896,Biology,Fall 2024,5,11.9,2.14,84.2,No,43,Need-based
+STU01897,Mathematics,Fall 2024,6,15.7,2.26,81.6,No,,Department
+STU01898,Biology,Fall 2024,4,22.7,3.44,70.7,Yes,34,Merit
+STU01899,Mathematics,Fall 2023,5,13.8,2.77,76.0,No,,Need-based
+STU01900,Biology,Spring 2024,3,1.2,2.18,85.5,No,12,Athletic
+STU01901,Biology,Fall 2024,5,8.8,2.2,85.9,No,44,Merit
+STU01902,Biology,Spring 2024,5,9.8,2.96,78.8,No,45,Department
+STU01903,Engineering,Fall 2023,5,14.9,3.3,80.8,Yes,36,None
+STU01904,Mathematics,Fall 2023,5,12.5,2.64,75.2,No,9,Merit
+STU01905,Mathematics,Spring 2024,5,18.6,3.18,88.1,Yes,19,Athletic
+STU01906,Engineering,Spring 2024,6,20.0,3.35,82.6,Yes,17,None
+STU01907,Computer Science,Fall 2023,3,14.2,3.86,68.7,No,25,Athletic
+STU01908,Engineering,Fall 2024,3,13.0,2.67,81.4,No,17,Need-based
+STU01909,Computer Science,Spring 2024,4,17.9,2.85,72.3,Yes,30,Athletic
+STU01910,Engineering,Spring 2024,5,4.6,2.34,87.5,No,34,Merit
+STU01911,Computer Science,Fall 2023,4,12.2,2.94,71.9,Yes,28,Merit
+STU01912,Business,Fall 2023,3,14.3,3.18,100,Yes,40,Need-based
+STU01913,Business,Spring 2024,3,16.7,3.13,50.6,No,31,Athletic
+STU01914,Business,Fall 2023,5,21.4,2.99,100,No,5,None
+STU01915,Computer Science,Fall 2023,3,6.1,2.12,67.8,No,23,Need-based
+STU01916,Business,Fall 2023,6,2.1,2.6,65.1,No,,None
+STU01917,Computer Science,Fall 2024,5,8.8,2.56,95.2,No,24,Need-based
+STU01918,Business,Fall 2023,4,22.2,3.26,73.0,Yes,28,Merit
+STU01919,Engineering,Fall 2023,5,20.5,3.21,73.3,No,24,Department
+STU01920,Engineering,Spring 2024,4,10.5,2.49,90.7,Yes,8,Department
+STU01921,Business,Fall 2023,5,7.9,2.61,81.1,Yes,37,Department
+STU01922,Biology,Spring 2024,3,10.9,2.08,84.4,No,15,Department
+STU01923,Computer Science,Spring 2024,3,13.5,2.97,66.8,No,23,Need-based
+STU01924,Business,Fall 2024,6,6.2,2.7,87.3,Yes,26,Merit
+STU01925,Mathematics,Spring 2024,4,22.2,2.83,61.6,No,26,Merit
+STU01926,Computer Science,Fall 2023,6,12.2,2.92,100,No,6,Athletic
+STU01927,Engineering,Fall 2023,5,12.7,2.88,97.1,Yes,26,Merit
+STU01928,Computer Science,Spring 2024,3,26.0,2.92,85.8,No,,Need-based
+STU01929,Business,Fall 2024,4,21.7,2.85,72.0,No,25,None
+STU01930,Mathematics,Fall 2023,6,3.4,1.86,83.0,No,5,Athletic
+STU01931,Business,Spring 2024,4,4.1,1.99,76.8,No,20,Athletic
+STU01932,Computer Science,Spring 2024,3,11.2,3.15,83.6,Yes,9,Department
+STU01933,Mathematics,Fall 2023,6,15.6,2.46,80.2,No,15,Need-based
+STU01934,Engineering,Fall 2024,4,13.2,2.32,71.6,No,23,Department
+STU01935,Biology,Fall 2024,6,14.2,2.91,97.0,No,27,Athletic
+STU01936,Biology,Fall 2024,5,19.5,3.12,100,No,11,None
+STU01937,Mathematics,Spring 2024,3,3.0,2.1,67.4,Yes,,Athletic
+STU01938,Mathematics,Fall 2023,3,5.4,2.37,78.4,No,5,Department
+STU01939,Computer Science,Fall 2024,3,19.0,2.63,56.1,No,41,Department
+STU01940,Engineering,Fall 2023,6,15.1,2.21,88.0,No,13,None
+STU01941,Engineering,Spring 2024,5,20.3,3.14,65.9,No,24,None
+STU01942,Business,Fall 2023,3,16.3,2.91,71.6,Yes,19,Department
+STU01943,Business,Fall 2024,6,4.0,1.93,66.0,No,30,Merit
+STU01944,Computer Science,Spring 2024,4,18.5,3.55,74.6,Yes,26,Need-based
+STU01945,Computer Science,Fall 2023,5,8.6,2.99,70.8,No,26,Merit
+STU01946,Biology,Spring 2024,6,24.5,2.87,72.5,No,29,None
+STU01947,Biology,Fall 2023,5,27.6,3.72,63.8,Yes,26,Need-based
+STU01948,Computer Science,Fall 2023,5,16.0,3.22,78.9,No,,Athletic
+STU01949,Engineering,Spring 2024,6,20.9,3.01,81.9,Yes,5,None
+STU01950,Biology,Fall 2024,3,17.2,3.42,69.7,No,,None
+STU01951,Computer Science,Fall 2023,6,17.9,2.77,71.5,No,,Merit
+STU01952,Computer Science,Fall 2023,6,19.9,3.18,64.5,No,18,Merit
+STU01953,Business,Spring 2024,5,13.2,2.49,65.1,Yes,41,None
+STU01954,Biology,Fall 2023,6,11.5,2.61,71.6,No,,Need-based
+STU01955,Computer Science,Fall 2023,6,9.2,2.69,88.6,No,9,Need-based
+STU01956,Engineering,Fall 2024,3,27.6,3.28,70.6,Yes,22,Merit
+STU01957,Engineering,Fall 2023,6,14.1,2.95,99.8,Yes,23,None
+STU01958,Biology,Spring 2024,5,30.2,3.08,90.7,No,,None
+STU01959,Engineering,Fall 2023,6,20.9,3.08,90.7,No,19,Athletic
+STU01960,Engineering,Spring 2024,6,18.9,3.15,75.9,No,,Athletic
+STU01961,Biology,Spring 2024,6,14.9,2.56,74.5,No,30,Merit
+STU01962,Business,Fall 2024,4,15.8,2.41,81.3,No,34,Department
+STU01963,Engineering,Fall 2024,6,18.7,2.5,91.6,No,,None
+STU01964,Business,Fall 2023,6,17.3,3.24,91.0,No,12,None
+STU01965,Business,Spring 2024,3,13.7,2.97,78.9,No,38,None
+STU01966,Engineering,Spring 2024,4,21.0,3.67,80.8,Yes,53,Department
+STU01967,Biology,Spring 2024,5,24.0,3.05,89.1,Yes,25,Need-based
+STU01968,Business,Spring 2024,4,6.2,3.27,84.9,Yes,33,Need-based
+STU01969,Biology,Fall 2023,5,28.3,2.97,86.7,Yes,22,Merit
+STU01970,Mathematics,Fall 2024,3,9.6,2.34,63.0,No,38,None
+STU01971,Business,Spring 2024,4,3.2,1.98,73.6,No,45,Athletic
+STU01972,Biology,Spring 2024,3,17.3,2.55,78.4,No,5,Need-based
+STU01973,Computer Science,Fall 2024,6,15.8,3.06,67.1,Yes,,Athletic
+STU01974,Engineering,Fall 2023,6,9.1,2.61,73.7,Yes,35,None
+STU01975,Engineering,Fall 2023,3,13.3,3.22,100,No,20,Merit
+STU01976,Biology,Fall 2024,4,15.4,2.72,75.6,No,23,Merit
+STU01977,Business,Spring 2024,6,16.2,2.67,54.8,Yes,,Merit
+STU01978,Business,Fall 2023,3,14.7,2.89,63.4,No,12,Athletic
+STU01979,Computer Science,Fall 2023,6,17.4,3.1,85.5,Yes,8,Need-based
+STU01980,Computer Science,Fall 2024,5,10.1,2.25,85.7,No,24,Merit
+STU01981,Mathematics,Spring 2024,5,15.2,2.5,69.1,No,48,Merit
+STU01982,Engineering,Fall 2024,4,13.5,2.66,73.8,No,19,Need-based
+STU01983,Computer Science,Spring 2024,5,13.8,2.62,96.5,No,14,None
+STU01984,Business,Fall 2023,6,3.5,2.63,58.8,No,32,None
+STU01985,Business,Spring 2024,6,9.8,2.54,82.9,Yes,34,Athletic
+STU01986,Computer Science,Fall 2024,3,17.6,3.11,74.7,Yes,11,Athletic
+STU01987,Business,Fall 2023,5,16.3,2.75,71.8,No,32,None
+STU01988,Engineering,Fall 2024,6,15.2,3.2,47.0,Yes,22,Department
+STU01989,Mathematics,Spring 2024,3,21.6,3.1,84.9,No,,None
+STU01990,Engineering,Spring 2024,5,12.2,2.51,70.2,Yes,27,Need-based
+STU01991,Computer Science,Fall 2024,3,19.7,2.2,61.5,Yes,,Department
+STU01992,Engineering,Fall 2024,6,26.8,3.17,72.6,No,24,Merit
+STU01993,Engineering,Fall 2024,5,15.2,2.67,100,No,35,Athletic
+STU01994,Computer Science,Spring 2024,5,14.0,2.81,84.0,No,25,None
+STU01995,Biology,Fall 2023,3,11.0,2.48,78.7,No,6,Department
+STU01996,Business,Spring 2024,5,17.5,3.17,74.2,Yes,21,None
+STU01997,Business,Fall 2024,4,15.4,2.51,80.7,No,36,Merit
+STU01998,Biology,Spring 2024,3,19.9,3.17,69.4,Yes,26,Athletic
+STU01999,Biology,Fall 2023,6,14.6,2.74,100,No,5,Need-based
+STU02000,Computer Science,Spring 2024,6,16.1,3.1,100,Yes,21,Merit
